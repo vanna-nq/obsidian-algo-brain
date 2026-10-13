@@ -34,3 +34,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-058 - A Theory of Intraday Patterns Volume and Price Variability|PAPER-058 — A Theory of Intraday Patterns: Volume and Price Variability]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-059 - Intraday periodicity and volatility persistence in financial markets|PAPER-059 — Intraday periodicity and volatility persistence in financial markets]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-082 - Periodic market closure and trading volume A model of intraday bids and asks|PAPER-082 — Periodic market closure and trading volume: A model of intraday bids and asks]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-083 - A transaction data study of weekly and intradaily patterns in stock returns|PAPER-083 — A transaction data study of weekly and intradaily patterns in stock returns]] — screened, not replicated.
