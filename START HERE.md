@@ -20,5 +20,10 @@ Statistical Arbitrage · Trend and Momentum · Market Microstructure · Machine 
 - Preserve unsuccessful experiments and track data provenance, fill assumptions, and research selection bias.
 - Sync these Markdown files back into Obsidian through the configured GitHub plugin.
 
-## Research catalog (13 papers)
+## Research catalog (37 papers)
 [[01 - Paper Library/RESEARCH CATALOG|Open the Research Catalog]] — one foundational paper screened for each of the 12 methodology branches, plus the SPY intraday momentum PDF review.
+
+## Literature expansion (2026-10-13)
+- [[01 - Paper Library/RESEARCH CATALOG|Research Catalog]] now contains **37** research notes, with **2 additional academic references per methodology category** (PAPER-014 to PAPER-037).
+- All 24 new references are **literature-screened**; not full-text-audited, not executed backtests, and not independently validated.
+- Before pulling ChatGPT-authored changes to your local Obsidian vault, check Git branch divergence; **do not use force push**.
