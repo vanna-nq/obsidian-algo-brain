@@ -32,3 +32,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-046 - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting|PAPER-046 — Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-047 - Deep Hedging|PAPER-047 — Deep Hedging]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-070 - Deep order flow imbalance Extracting alpha at multiple horizons from the limit ord|PAPER-070 — Deep order flow imbalance: Extracting alpha at multiple horizons from the limit order book]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-071 - Attention Is All You Need|PAPER-071 — Attention Is All You Need]] — screened, not replicated.
