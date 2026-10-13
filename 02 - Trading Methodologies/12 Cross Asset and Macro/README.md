@@ -22,3 +22,7 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-013 - Value and Momentum Everywhere - Asness Moskowitz Pedersen 2013|PAPER-013 — Value and Momentum Everywhere - Asness Moskowitz Pedersen 2013]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-036 - Carry|PAPER-036 — Carry]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-037 - International Stock Return Predictability What Is the Role of the United States|PAPER-037 — International Stock Return Predictability What Is the Role of the United States]] — literature screening, not independently replicated.
