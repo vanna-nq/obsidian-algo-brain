@@ -26,3 +26,9 @@ _Unresolved claims requiring independent checks._
 ## 2026 research additions
 - [[01 - Paper Library/PAPER-032 - Portfolio Selection|PAPER-032 — Portfolio Selection]] — literature screening, not independently replicated.
 - [[01 - Paper Library/PAPER-033 - Ising Formulations of Many NP Problems|PAPER-033 — Ising Formulations of Many NP Problems]] — literature screening, not independently replicated.
+
+## Verified-source literature: PAPER-038–061
+
+New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
+- [[01 - Paper Library/PAPER-56 - Optimal Versus Naive Diversification How Inefficient is the 1N Portfolio Strategy|PAPER-56 — Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-57 - Quantum computing for finance Overview and prospects|PAPER-57 — Quantum computing for finance: Overview and prospects]] — primary source verified; independent replication pending.
