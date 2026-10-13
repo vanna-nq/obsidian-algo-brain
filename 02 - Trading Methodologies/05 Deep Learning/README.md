@@ -26,3 +26,9 @@ _Unresolved claims requiring independent checks._
 ## 2026 research additions
 - [[01 - Paper Library/PAPER-022 - Universal Features of Price Formation in Financial Markets Perspectives from Deep Learning|PAPER-022 — Universal Features of Price Formation in Financial Markets: Perspectives from Deep Learning]] — literature screening, not independently replicated.
 - [[01 - Paper Library/PAPER-023 - Enhancing Time Series Momentum Strategies Using Deep Neural Networks|PAPER-023 — Enhancing Time Series Momentum Strategies Using Deep Neural Networks]] — literature screening, not independently replicated.
+
+## Verified-source literature: PAPER-038–061
+
+New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
+- [[01 - Paper Library/PAPER-46 - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting|PAPER-46 — Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-47 - Deep Hedging|PAPER-47 — Deep Hedging]] — primary source verified; independent replication pending.
