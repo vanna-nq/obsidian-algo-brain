@@ -34,3 +34,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-042 - Measuring the Information Content of Stock Trades|PAPER-042 — Measuring the Information Content of Stock Trades]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-043 - Optimal Execution of Portfolio Transactions|PAPER-043 — Optimal Execution of Portfolio Transactions]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-066 - Order Flow and Exchange Rate Dynamics|PAPER-066 — Order Flow and Exchange Rate Dynamics]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-067 - Price Dynamics in a Markovian Limit Order Market|PAPER-067 — Price Dynamics in a Markovian Limit Order Market]] — screened, not replicated.
