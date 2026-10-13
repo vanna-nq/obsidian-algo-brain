@@ -19,3 +19,6 @@ Statistical Arbitrage · Trend and Momentum · Market Microstructure · Machine 
 - Do not equate reported in-sample performance with live profitability.
 - Preserve unsuccessful experiments and track data provenance, fill assumptions, and research selection bias.
 - Sync these Markdown files back into Obsidian through the configured GitHub plugin.
+
+## Research catalog (13 papers)
+[[01 - Paper Library/RESEARCH CATALOG|Open the Research Catalog]] — one foundational paper screened for each of the 12 methodology branches, plus the SPY intraday momentum PDF review.
