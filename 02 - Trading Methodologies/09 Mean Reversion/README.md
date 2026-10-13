@@ -19,3 +19,6 @@ _Link experiment IDs including negative results._
 
 ## Open questions
 _Unresolved claims requiring independent checks._
+
+## Papers
+- [[01 - Paper Library/PAPER-010 - Statistical Arbitrage US Equities - Avellaneda Lee 2010|PAPER-010 — Statistical Arbitrage US Equities - Avellaneda Lee 2010]] — abstract screened; independent reproduction pending.
