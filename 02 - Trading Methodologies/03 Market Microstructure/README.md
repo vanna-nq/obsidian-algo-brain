@@ -28,3 +28,9 @@ _Unresolved claims requiring independent checks._
 ## 2026 research additions
 - [[01 - Paper Library/PAPER-018 - Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Trade|PAPER-018 — Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders]] — literature screening, not independently replicated.
 - [[01 - Paper Library/PAPER-019 - The Price Impact of Order Book Events|PAPER-019 — The Price Impact of Order Book Events]] — literature screening, not independently replicated.
+
+## Verified-source literature: PAPER-038–061
+
+New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
+- [[01 - Paper Library/PAPER-42 - Measuring the Information Content of Stock Trades|PAPER-42 — Measuring the Information Content of Stock Trades]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-43 - Optimal Execution of Portfolio Transactions|PAPER-43 — Optimal Execution of Portfolio Transactions]] — primary source verified; independent replication pending.
