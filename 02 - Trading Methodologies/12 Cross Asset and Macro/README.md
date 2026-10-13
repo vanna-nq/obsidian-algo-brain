@@ -32,3 +32,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-060 - Common risk factors in the returns on stocks and bonds|PAPER-060 — Common risk factors in the returns on stocks and bonds]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-061 - Carry Trades and Currency Crashes|PAPER-061 — Carry Trades and Currency Crashes]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-084 - Betting against beta|PAPER-084 — Betting against beta]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-085 - Forward and spot exchange rates|PAPER-085 — Forward and spot exchange rates]] — screened, not replicated.
