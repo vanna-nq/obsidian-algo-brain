@@ -22,3 +22,5 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-001 - Beat the Market - SPY Intraday Momentum|PAPER-001 — Beat the Market: SPY Intraday Momentum]] — literature-reviewed; author-reported historical performance; not replicated.
+
+- [[01 - Paper Library/PAPER-003 - Time Series Momentum - Moskowitz Ooi Pedersen 2012|PAPER-003 — Time Series Momentum - Moskowitz Ooi Pedersen 2012]] — abstract screened; independent reproduction pending.
