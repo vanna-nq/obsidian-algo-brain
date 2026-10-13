@@ -32,3 +32,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-044 - A Reality Check for Data Snooping|PAPER-044 — A Reality Check for Data Snooping]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-045 - The Probability of Backtest Overfitting|PAPER-045 — The Probability of Backtest Overfitting]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-068 - Random Forests|PAPER-068 — Random Forests]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-069 - XGBoost A Scalable Tree Boosting System|PAPER-069 — XGBoost: A Scalable Tree Boosting System]] — screened, not replicated.
