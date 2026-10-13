@@ -32,3 +32,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-054 - Does the Stock Market Overreact|PAPER-054 — Does the Stock Market Overreact?]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-055 - Evaporating Liquidity|PAPER-055 — Evaporating Liquidity]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-078 - Stock Market Prices Do Not Follow Random Walks Evidence from a Simple Specificatio|PAPER-078 — Stock Market Prices Do Not Follow Random Walks: Evidence from a Simple Specification Test]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-079 - Contrarian Investment Extrapolation and Risk|PAPER-079 — Contrarian Investment, Extrapolation, and Risk]] — screened, not replicated.
