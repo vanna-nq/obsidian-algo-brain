@@ -28,3 +28,9 @@ _Unresolved claims requiring independent checks._
 ## 2026 research additions
 - [[01 - Paper Library/PAPER-016 - A Century of Evidence on Trend-Following Investing|PAPER-016 — A Century of Evidence on Trend-Following Investing]] — literature screening, not independently replicated.
 - [[01 - Paper Library/PAPER-017 - Momentum Crashes|PAPER-017 — Momentum Crashes]] — literature screening, not independently replicated.
+
+## Verified-source literature: PAPER-038–061
+
+New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
+- [[01 - Paper Library/PAPER-40 - Returns to Buying Winners and Selling Losers Implications for Stock Market Efficiency|PAPER-40 — Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-41 - Volatility-Managed Portfolios|PAPER-41 — Volatility-Managed Portfolios]] — primary source verified; independent replication pending.
