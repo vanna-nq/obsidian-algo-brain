@@ -22,3 +22,7 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-011 - Solving Optimal Trading Trajectory Quantum Annealer - Rosenberg et al 2016|PAPER-011 — Solving Optimal Trading Trajectory Quantum Annealer - Rosenberg et al 2016]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-032 - Portfolio Selection|PAPER-032 — Portfolio Selection]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-033 - Ising Formulations of Many NP Problems|PAPER-033 — Ising Formulations of Many NP Problems]] — literature screening, not independently replicated.
