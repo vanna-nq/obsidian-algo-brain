@@ -20,7 +20,7 @@ Statistical Arbitrage · Trend and Momentum · Market Microstructure · Machine 
 - Preserve unsuccessful experiments and track data provenance, fill assumptions, and research selection bias.
 - Sync these Markdown files back into Obsidian through the configured GitHub plugin.
 
-## Research catalog (61 papers)
+## Research catalog (85 papers)
 [[01 - Paper Library/RESEARCH CATALOG|Open the Research Catalog]] — one foundational paper screened for each of the 12 methodology branches, plus the SPY intraday momentum PDF review.
 
 ## Literature expansion (2026-10-13)
@@ -32,3 +32,8 @@ Statistical Arbitrage · Trend and Momentum · Market Microstructure · Machine 
 - [[01 - Paper Library/RESEARCH CATALOG|Research Catalog]]: **61 research notes across 12 methodologies**, including **24 further primary-source checked academic references**.
 - These 24 are *publisher/author abstract-verified*, **not** full-text equation audits or executed trading backtests. No verified live or independent performance claims.
 - Featured research-quality safeguards: [[01 - Paper Library/PAPER-044 - A Reality Check for Data Snooping|White's Reality Check]] and [[01 - Paper Library/PAPER-045 - The Probability of Backtest Overfitting|Probability of Backtest Overfitting]].
+
+## Scholarly research expansion — PAPER-062 to PAPER-085 (2026-10-13)
+- [[01 - Paper Library/RESEARCH CATALOG|Research Catalog]] now indexes **85 canonical research notes**, including 24 additional peer-reviewed/conference sources in the latest batch.
+- Every new note is a verified source-level literature summary with mechanism, proposed falsifiable test, data prerequisites and limitations. No full-text audit or independent backtest has been conducted for this batch.
+- Papers are indexed across 12 methodology folders; do not confuse author-reported results with our validated models.
