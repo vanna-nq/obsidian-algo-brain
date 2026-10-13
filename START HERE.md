@@ -45,3 +45,8 @@ Statistical Arbitrage · Trend and Momentum · Market Microstructure · Machine 
 - [[03 - Mathematical Foundations/KNOWLEDGE GRAPH|104-paper Mathematical Knowledge Graph]] — 16 mathematical mechanism families and 27 typed research connections.
 - [[05 - Strategy Hypotheses/RESEARCH INTELLIGENCE INDEX|Research Intelligence Index]] — 15 testable or blocked hypotheses with baseline/data gates.
 - [[06 - Experiments and Backtests/EXP-F001 - Permutation Entropy Data and Method Audit|EXP-F001 paper and GC.F data audit]] — planned first task, NOT an executed model or backtest.
+
+## Research Director and evidence system
+- [[09 - Research Infrastructure/RESEARCH DIRECTOR|Research Director]] — decisions, tracks and research queue.
+- [[06 - Experiments and Backtests/EVIDENCE LEDGER|Evidence Ledger]] — positive, failed and blocked experiments kept distinct.
+- [[06 - Experiments and Backtests/EXP-S001 - Permutation Entropy Synthetic Invariants|EXP-S001]] — frozen synthetic correctness study (not market evidence).
