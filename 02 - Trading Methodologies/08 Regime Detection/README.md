@@ -34,3 +34,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-052 - Dynamic linear models with Markov-switching|PAPER-052 — Dynamic linear models with Markov-switching]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-053 - Asset allocation under multivariate regime switching|PAPER-053 — Asset allocation under multivariate regime switching]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-076 - Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of Un|PAPER-076 — Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-077 - Generalized autoregressive conditional heteroskedasticity|PAPER-077 — Generalized autoregressive conditional heteroskedasticity]] — screened, not replicated.
