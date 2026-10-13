@@ -22,3 +22,5 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-001 - Beat the Market - SPY Intraday Momentum|PAPER-001 — Beat the Market: SPY Intraday Momentum]] — literature-reviewed; author-reported historical performance; not replicated.
+
+- [[01 - Paper Library/PAPER-012 - Market Intraday Momentum - Gao Han Li Zhou 2018|PAPER-012 — Market Intraday Momentum - Gao Han Li Zhou 2018]] — abstract screened; independent reproduction pending.

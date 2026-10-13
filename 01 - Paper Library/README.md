@@ -4,3 +4,6 @@ One canonical note per paper, using the Paper Note Template. Include bibliograph
 
 ## Papers
 - [[01 - Paper Library/PAPER-001 - Beat the Market - SPY Intraday Momentum|PAPER-001 — Beat the Market: SPY Intraday Momentum]] — literature-reviewed; author-reported historical performance; not replicated.
+
+## Current catalog
+[[01 - Paper Library/RESEARCH CATALOG|RESEARCH CATALOG]] — 13 papers total, evidence status and links.

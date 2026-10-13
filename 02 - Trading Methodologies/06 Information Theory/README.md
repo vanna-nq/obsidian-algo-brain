@@ -19,3 +19,6 @@ _Link experiment IDs including negative results._
 
 ## Open questions
 _Unresolved claims requiring independent checks._
+
+## Papers
+- [[01 - Paper Library/PAPER-007 - A New Interpretation of Information Rate - Kelly 1956|PAPER-007 — A New Interpretation of Information Rate - Kelly 1956]] — abstract screened; independent reproduction pending.

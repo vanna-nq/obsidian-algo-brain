@@ -22,3 +22,5 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-001 - Beat the Market - SPY Intraday Momentum|PAPER-001 — Beat the Market: SPY Intraday Momentum]] — literature-reviewed; author-reported historical performance; not replicated.
+
+- [[01 - Paper Library/PAPER-008 - Variance Risk Premiums - Carr Wu 2009|PAPER-008 — Variance Risk Premiums - Carr Wu 2009]] — abstract screened; independent reproduction pending.
