@@ -22,3 +22,7 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-005 - Empirical Asset Pricing via Machine Learning - Gu Kelly Xiu 2020|PAPER-005 — Empirical Asset Pricing via Machine Learning - Gu Kelly Xiu 2020]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-020 - Deep Neural Networks Gradient-Boosted Trees Random Forests Statistical Arbitrage on the S&|PAPER-020 — Deep Neural Networks Gradient-Boosted Trees Random Forests: Statistical Arbitrage on the S&P 500]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-021 - Out-of-Sample Equity Premium Prediction Combination Forecasts and Links to the Real Econom|PAPER-021 — Out-of-Sample Equity Premium Prediction: Combination Forecasts and Links to the Real Economy]] — literature screening, not independently replicated.
