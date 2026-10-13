@@ -28,3 +28,9 @@ _Unresolved claims requiring independent checks._
 ## 2026 research additions
 - [[01 - Paper Library/PAPER-028 - Identifying Bull and Bear Markets in Stock Returns|PAPER-028 — Identifying Bull and Bear Markets in Stock Returns]] — literature screening, not independently replicated.
 - [[01 - Paper Library/PAPER-029 - International Asset Allocation With Regime Shifts|PAPER-029 — International Asset Allocation With Regime Shifts]] — literature screening, not independently replicated.
+
+## Verified-source literature: PAPER-038–061
+
+New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
+- [[01 - Paper Library/PAPER-52 - Dynamic linear models with Markov-switching|PAPER-52 — Dynamic linear models with Markov-switching]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-53 - Asset allocation under multivariate regime switching|PAPER-53 — Asset allocation under multivariate regime switching]] — primary source verified; independent replication pending.
