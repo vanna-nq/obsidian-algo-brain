@@ -42,3 +42,7 @@ Embedding order/delay/window tuning is a major data-mining hazard.
 - [[02 - Trading Methodologies/06 Information Theory/README|Information Theory]]
 - [[01 - Paper Library/RESEARCH FRONTIER|Research Frontier]]
 - [[01 - Paper Library/RESEARCH CATALOG|Complete Research Catalog]]
+
+## 2026-10-13 primary-text mathematical audit (not a backtest)
+- [[03 - Mathematical Foundations/PAPER-090 - Permutation Entropy Primary Text Audit|Method audit]] verifies ordinal-pattern counts, base-2 entropy definition, normalization and tie caveats against reproduced published-article text, not directly against a locally rendered publisher PDF.
+- [[04 - Market Data/DATA-F001 - Gold GC 5m Intake Checklist|Gold raw-data intake]] remains blocked. The proposed 5m forecasting idea is an untested adaptation, not the original paper's empirical claim.

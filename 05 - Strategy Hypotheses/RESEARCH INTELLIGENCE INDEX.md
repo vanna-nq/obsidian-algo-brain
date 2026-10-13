@@ -17,7 +17,7 @@ last_updated: 2026-10-13
 
 | # | Candidate | Tier | Dataset requirement | Primary comparison | Status |
 |---|---|---|---|---|---|
-| 1 | [[05 - Strategy Hypotheses/HYP-F001 - Permutation Entropy Future Volatility|HYP-F001 — Permutation Entropy Future Volatility]] | T1 | GC.F 5m OHLCV | Lagged realized-variance HAR-style regression, EWMA | audit-queued |
+| 1 | [[05 - Strategy Hypotheses/HYP-F001 - Permutation Entropy Future Volatility|HYP-F001 — Permutation Entropy Future Volatility]] | T1 | GC.F 5m OHLCV | Lagged realized-variance HAR-style regression, EWMA | blocked-awaiting-data-preview |
 | 2 | [[05 - Strategy Hypotheses/HYP-F002 - Roughness of Volatility|HYP-F002 — Roughness of Volatility]] | T1 | GC.F 5m or SPX500 1h | HAR-RV and EWMA/GARCH | proposed |
 | 3 | [[05 - Strategy Hypotheses/HYP-F003 - Intraday Extremum Hazard and Seasonality|HYP-F003 — Intraday Extremum Hazard and Seasonality]] | T1 | GC.F 5m session OHLCV | Time-only empirical hazards and trailing session volatility | proposed |
 | 4 | [[05 - Strategy Hypotheses/HYP-F004 - Time Reversal Volatility Feedback|HYP-F004 — Time Reversal Volatility Feedback]] | T1 | GC.F 5m or SPX500 1h | HAR-RV and symmetric GARCH | proposed |
@@ -56,3 +56,6 @@ last_updated: 2026-10-13
 - Veron tasks must use **only its verified callable function list**, one executable task at a time, and require dataset preview before any code.
 
 [[03 - Mathematical Foundations/KNOWLEDGE GRAPH EDGES|Research connections]] · [[01 - Paper Library/RESEARCH FRONTIER|Niche Research Frontier]]
+
+## Current gate update — 2026-10-13
+**EXP-F001 PARTIAL / BLOCKED:** Mathematical concept and original paper section-II definitions reviewed via reproduced primary article text; actual GC.F 5m market data were not accessible for manifest/hash/preview. See [[03 - Mathematical Foundations/PAPER-090 - Permutation Entropy Primary Text Audit|method audit]] and [[04 - Market Data/DATA-F001 - Gold GC 5m Intake Checklist|data intake]]. Do not jump to HYP-F002 or to an entropy backtest until this one-task blocker is addressed.

@@ -1,7 +1,7 @@
 ---
 type: experiment
 experiment_id: "EXP-F001"
-status: "planned-audit-only"
+status: "partially-audited-blocked-on-raw-data"
 hypothesis: "HYP-F001"
 execution_evidence: null
 code_commit: null
@@ -50,8 +50,14 @@ Establish whether [[01 - Paper Library/PAPER-090 - Permutation Entropy A Natural
 - No generated strategy parameters beyond proposed specification; no predictive fit, trade signals, equity curve or Sharpe ratio.
 - Use only tools verified callable in the research environment; do not assume Veron can write files, run Python, import LSE data, or run a blueprint unless its current function list explicitly supports the action.
 
+## Audit execution report — 2026-10-13
+- **Primary text:** Verified section II core formula, base-2 logarithm, m!/pattern count, alternative normalizations, author's tie assumptions and source toy examples from reproduced published article text. Evidence: [[03 - Mathematical Foundations/PAPER-090 - Permutation Entropy Primary Text Audit|PAPER-090 method audit]]. Original publisher PDF not inspected visually; this is not full published PDF page verification.
+- **Data search:** Project/Library accessible file search and GitHub notes did **not** produce a raw accessible GC.F 5m OHLCV file. Neither file hash nor first/last rows nor roll/gap/tie metrics could be checked. [[04 - Market Data/DATA-F001 - Gold GC 5m Intake Checklist|DATA-F001 intake]].
+- **Real trading tests:** None. No Python predictive implementation, strategy, model training, OOS score or PnL run.
+- **Verdict: BLOCKED** pending an authenticated raw dataset/preview, deterministic tie protocol and explicit frozen test authorization.
+
 ## Current state and stop condition
-- **Status:** PLANNED. No paper PDF was fetched/audited equation by equation in this step. No GC.F data file was read or hashed. No trading system, prediction or backtest has been executed.
+- **Status:** CORE SOURCE MATH REVIEWED, DATA BLOCKED. Article text definition was inspected; original PDF visual check remains open. No GC.F data file was read or hashed. No trading system, prediction or backtest has been executed.
 - **STOP HERE** upon producing audit artifacts/ready-blocked verdict. A separately authorized, frozen experiment must receive a new ID before coding and evaluating the proposed forecast.
 
 ## Links
