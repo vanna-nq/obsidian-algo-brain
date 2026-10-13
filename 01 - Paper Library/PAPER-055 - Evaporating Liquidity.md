@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-55
+paper_id: PAPER-055
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "09 Mean Reversion"
@@ -9,7 +9,7 @@ doi: "10.1093/rfs/hhs066"
 source_url: "https://doi.org/10.1093/rfs/hhs066"
 replicated: false
 ---
-# PAPER-55 — Evaporating Liquidity
+# PAPER-055 — Evaporating Liquidity
 
 **Authors:** Stefan Nagel  
 **Venue/year:** The Review of Financial Studies 25(7), 2005–2039 (2012)  

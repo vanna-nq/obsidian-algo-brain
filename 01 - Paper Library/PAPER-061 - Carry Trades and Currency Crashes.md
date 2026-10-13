@@ -1,37 +1,37 @@
 ---
 type: paper
-paper_id: PAPER-60
+paper_id: PAPER-061
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "12 Cross Asset and Macro"
-year: 1993
-doi: "10.1016/0304-405X(93)90023-5"
-source_url: "https://doi.org/10.1016/0304-405X(93)90023-5"
+year: 2009
+doi: "10.1086/593088"
+source_url: "https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2008-volume-23/carry-trades-and-currency-crashes"
 replicated: false
 ---
-# PAPER-60 — Common risk factors in the returns on stocks and bonds
+# PAPER-061 — Carry Trades and Currency Crashes
 
-**Authors:** Eugene F. Fama; Kenneth R. French  
-**Venue/year:** Journal of Financial Economics 33(1), 3–56 (1993)  
-**Verified primary source:** https://doi.org/10.1016/0304-405X(93)90023-5  
-**DOI:** https://doi.org/10.1016/0304-405X(93)90023-5
+**Authors:** Markus K. Brunnermeier; Stefan Nagel; Lasse H. Pedersen  
+**Venue/year:** NBER Macroeconomics Annual 2008, Vol. 23 (published 2009) (2009)  
+**Verified primary source:** https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2008-volume-23/carry-trades-and-currency-crashes  
+**DOI:** https://doi.org/10.1086/593088
 
 > **Evidence status: Source-verified literature screen, NOT a full-paper methods audit, executable ruleset, or independent replication.** The publisher/author abstract and bibliographic record support the claim below. Obtain and audit the full article before translating details to code.
 
 ## What this paper contributes
-Identifies common stock and bond factor dimensions related to market, size, value, bond maturity and default-risk return exposures.
+Explains negative skew, crash losses and abrupt unwinding of currency carry exposures in terms of global funding liquidity and risk appetite.
 
 ## Grounded finding / scope (authors, not our result)
-Empirical evidence suggests systematic factor covariation helps explain realized average stock/bond returns and cross-sectional differences; factors are not direct intraday alpha generators.
+Authors document negatively skewed returns for high-vs-low-interest currency carry and association of unwinding with funding liquidity distress.
 
 ## Required data and feasible replication
-Point-in-time stock returns and fundamentals, bond maturity and ratings/term factors, corporate-action-safe history, released factor construction rules.
+Point-in-time currency spot, forwards/carry rates, funding spread and rate histories, shorting/margin/executable rollover rules.
 
 ## Challenges, alternatives and invalid inference
-Factor exposure can falsely appear as alpha; lookahead in company accounting data and changing bond composition affects regressions and hedges.
+Positive average carry can conceal fat left tails; currency data require matching time-zone and funding conventions; overnight risk cannot be ignored.
 
 ## Candidate falsifiable experiment — proposed only
-Regress strategy returns on lagged tradable stock/bond factor proxies and test whether residual net alpha persists across held-out periods and cost assumptions.
+Freeze FX carry definition, compare raw and ex-ante funding-stress-gated strategies in untouched periods using realistic rolls and tail expected shortfall.
 
 **Mandatory validation gates:** source-version check → dataset preview/coverage → timestamp/corporate-action audit → frozen objective and null → train-only estimation → strictly causal next-tradable fills → all-in transaction/friction costs → independent forward holdout → sensitivity and regime breakdown. No results produced here.
 

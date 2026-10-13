@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-54
+paper_id: PAPER-054
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "09 Mean Reversion"
@@ -9,7 +9,7 @@ doi: "10.1111/j.1540-6261.1985.tb05004.x"
 source_url: "https://doi.org/10.1111/j.1540-6261.1985.tb05004.x"
 replicated: false
 ---
-# PAPER-54 — Does the Stock Market Overreact?
+# PAPER-054 — Does the Stock Market Overreact?
 
 **Authors:** Werner F. M. De Bondt; Richard Thaler  
 **Venue/year:** The Journal of Finance 40(3), 793–805 (1985)  

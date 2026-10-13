@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-50
+paper_id: PAPER-050
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "07 Volatility and Derivatives"
@@ -9,7 +9,7 @@ doi: "10.1016/j.jfineco.2009.01.001"
 source_url: "https://doi.org/10.1016/j.jfineco.2009.01.001"
 replicated: false
 ---
-# PAPER-50 — Cross-section of option returns and volatility
+# PAPER-050 — Cross-section of option returns and volatility
 
 **Authors:** Amit Goyal; Alessio Saretto  
 **Venue/year:** Journal of Financial Economics 94(2), 310–326 (2009)  

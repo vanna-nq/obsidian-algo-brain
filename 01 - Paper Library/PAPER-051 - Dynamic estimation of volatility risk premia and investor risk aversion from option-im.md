@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-51
+paper_id: PAPER-051
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "07 Volatility and Derivatives"
@@ -9,7 +9,7 @@ doi: "10.1016/j.jeconom.2010.03.033"
 source_url: "https://doi.org/10.1016/j.jeconom.2010.03.033"
 replicated: false
 ---
-# PAPER-51 — Dynamic estimation of volatility risk premia and investor risk aversion from option-implied and realized volatilities
+# PAPER-051 — Dynamic estimation of volatility risk premia and investor risk aversion from option-implied and realized volatilities
 
 **Authors:** Tim Bollerslev; Michael Gibson; Hao Zhou  
 **Venue/year:** Journal of Econometrics 160(1), 235–245 (2011)  

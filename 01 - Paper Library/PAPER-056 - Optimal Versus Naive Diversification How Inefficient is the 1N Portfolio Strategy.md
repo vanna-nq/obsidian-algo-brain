@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-56
+paper_id: PAPER-056
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "10 Optimization and Physics"
@@ -9,7 +9,7 @@ doi: "10.1093/rfs/hhm075"
 source_url: "https://doi.org/10.1093/rfs/hhm075"
 replicated: false
 ---
-# PAPER-56 — Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?
+# PAPER-056 — Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?
 
 **Authors:** Victor DeMiguel; Lorenzo Garlappi; Raman Uppal  
 **Venue/year:** The Review of Financial Studies 22(5) (2009)  

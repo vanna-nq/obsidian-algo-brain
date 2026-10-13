@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-57
+paper_id: PAPER-057
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "10 Optimization and Physics"
@@ -9,7 +9,7 @@ doi: "10.1016/j.revip.2019.100028"
 source_url: "https://doi.org/10.1016/j.revip.2019.100028"
 replicated: false
 ---
-# PAPER-57 — Quantum computing for finance: Overview and prospects
+# PAPER-057 — Quantum computing for finance: Overview and prospects
 
 **Authors:** Román Orús; Samuel Mugel; Enrique Lizaso  
 **Venue/year:** Reviews in Physics 4, 100028 (2019)  

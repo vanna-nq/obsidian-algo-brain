@@ -1,37 +1,37 @@
 ---
 type: paper
-paper_id: PAPER-58
+paper_id: PAPER-059
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "11 Intraday Price Structure"
-year: 1988
-doi: "10.1093/rfs/1.1.3"
-source_url: "https://doi.org/10.1093/rfs/1.1.3"
+year: 1997
+doi: "10.1016/S0927-5398(97)00004-2"
+source_url: "https://doi.org/10.1016/S0927-5398(97)00004-2"
 replicated: false
 ---
-# PAPER-58 — A Theory of Intraday Patterns: Volume and Price Variability
+# PAPER-059 — Intraday periodicity and volatility persistence in financial markets
 
-**Authors:** Anat R. Admati; Paul Pfleiderer  
-**Venue/year:** The Review of Financial Studies 1(1), 3–40 (1988)  
-**Verified primary source:** https://doi.org/10.1093/rfs/1.1.3  
-**DOI:** https://doi.org/10.1093/rfs/1.1.3
+**Authors:** Torben G. Andersen; Tim Bollerslev  
+**Venue/year:** Journal of Empirical Finance 4(2–3), 115–158 (1997)  
+**Verified primary source:** https://doi.org/10.1016/S0927-5398(97)00004-2  
+**DOI:** https://doi.org/10.1016/S0927-5398(97)00004-2
 
 > **Evidence status: Source-verified literature screen, NOT a full-paper methods audit, executable ruleset, or independent replication.** The publisher/author abstract and bibliographic record support the claim below. Obtain and audit the full article before translating details to code.
 
 ## What this paper contributes
-Explains endogenous concentration of intraday volume and volatility from strategic interaction of informed participants and discretionary liquidity traders.
+Separates predictable intraday volatility seasonality from stochastic volatility persistence in foreign exchange and equity markets.
 
 ## Grounded finding / scope (authors, not our result)
-Theory provides a partial rationale for clustered trading and price variability at particular times of day; does not deliver an executable HOD/LOD timing indicator.
+The authors show clock-time seasonal volatility has a substantial effect on measured high-frequency dynamics and must be accounted for before interpreting volatility clustering.
 
 ## Required data and feasible replication
-Precise regular-session minute-volume/return curves, liquidity conditions, exchange calendar, open/close auctions, participant/flow data for more direct tests.
+High-quality minute/5-minute session bars, timezone/DST corrections, holidays, clock-time bins and stable 14–90 day seasonal estimators.
 
 ## Challenges, alternatives and invalid inference
-Observed U-shaped volume can arise from multiple mechanisms and does not imply same clock-time direction or positive risk-adjusted momentum.
+Mixing different session clocks or rescaling against future sessions creates apparent predictable patterns; normalized volatility does not imply a directional trading edge.
 
 ## Candidate falsifiable experiment — proposed only
-Model time-of-day seasonality from prior training sessions and examine whether residual abnormal volume predicts future range expansion net of time-of-day and volatility nulls.
+Compare raw vs causally seasonal-adjusted breakout thresholds for forecasting next 30-minute range and HOD/LOD formation probability with unseen-session calibration.
 
 **Mandatory validation gates:** source-version check → dataset preview/coverage → timestamp/corporate-action audit → frozen objective and null → train-only estimation → strictly causal next-tradable fills → all-in transaction/friction costs → independent forward holdout → sensitivity and regime breakdown. No results produced here.
 

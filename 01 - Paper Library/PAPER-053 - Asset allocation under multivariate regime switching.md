@@ -1,37 +1,37 @@
 ---
 type: paper
-paper_id: PAPER-52
+paper_id: PAPER-053
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "08 Regime Detection"
-year: 1994
-doi: "10.1016/0304-4076(94)90036-1"
-source_url: "https://doi.org/10.1016/0304-4076(94)90036-1"
+year: 2007
+doi: "10.1016/j.jedc.2006.12.004"
+source_url: "https://doi.org/10.1016/j.jedc.2006.12.004"
 replicated: false
 ---
-# PAPER-52 — Dynamic linear models with Markov-switching
+# PAPER-053 — Asset allocation under multivariate regime switching
 
-**Authors:** Chang-Jin Kim  
-**Venue/year:** Journal of Econometrics 60(1–2), 1–22 (1994)  
-**Verified primary source:** https://doi.org/10.1016/0304-4076(94)90036-1  
-**DOI:** https://doi.org/10.1016/0304-4076(94)90036-1
+**Authors:** Massimo Guidolin; Allan Timmermann  
+**Venue/year:** Journal of Economic Dynamics and Control 31(11), 3503–3544 (2007)  
+**Verified primary source:** https://doi.org/10.1016/j.jedc.2006.12.004  
+**DOI:** https://doi.org/10.1016/j.jedc.2006.12.004
 
 > **Evidence status: Source-verified literature screen, NOT a full-paper methods audit, executable ruleset, or independent replication.** The publisher/author abstract and bibliographic record support the claim below. Obtain and audit the full article before translating details to code.
 
 ## What this paper contributes
-Extends Hamilton Markov switching to state-space models allowing regime dependence in measurement/transition dynamics, with filtering, smoothing and likelihood estimation.
+Models joint stock/bond return distribution with states characterized by different means, variances and correlations and evaluates regime-aware portfolio decisions.
 
 ## Grounded finding / scope (authors, not our result)
-Introduces an estimation/filtering framework and computational approximation for latent-regime dynamic linear models; not a trading-performance study.
+Finds evidence supporting multiple market regimes including crash, slow growth, bull and recovery in historical stock/bond returns; recommended exposures depend on state probabilities and investment horizon.
 
 ## Required data and feasible replication
-Consistent return/volatility series, model likelihood, time-filtered regime beliefs and diagnostic simulation; full implementation needs detailed math audit.
+Long point-in-time joint stock/bond return series, risk-free rates, true release timestamps, training-only transition matrix and constrained portfolio weights.
 
 ## Challenges, alternatives and invalid inference
-Smoothing uses future data and is invalid as a historical live decision variable. Latent state labels are unidentified up to permutation, regime count selection is fragile.
+Regime probabilities are estimated, not observed. Recovered historical states and optimal hindsight weights create severe lookahead if reused as live labels.
 
 ## Candidate falsifiable experiment — proposed only
-Simulate known two-regime data, prove online filtered state recovery without future access, then measure incremental risk-management value on held-out markets.
+Compare one-sided filtered-regime allocation to rolling-covariance risk-parity and static 60/40 on chronological unseen data with turnover and leverage caps.
 
 **Mandatory validation gates:** source-version check → dataset preview/coverage → timestamp/corporate-action audit → frozen objective and null → train-only estimation → strictly causal next-tradable fills → all-in transaction/friction costs → independent forward holdout → sensitivity and regime breakdown. No results produced here.
 
