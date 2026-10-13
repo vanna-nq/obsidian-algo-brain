@@ -22,3 +22,7 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-010 - Statistical Arbitrage US Equities - Avellaneda Lee 2010|PAPER-010 — Statistical Arbitrage US Equities - Avellaneda Lee 2010]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-030 - Mean Reversion in Stock Prices Evidence and Implications|PAPER-030 — Mean Reversion in Stock Prices Evidence and Implications]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-031 - When Are Contrarian Profits Due to Stock Market Overreaction|PAPER-031 — When Are Contrarian Profits Due to Stock Market Overreaction]] — literature screening, not independently replicated.
