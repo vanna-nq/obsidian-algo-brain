@@ -1,6 +1,6 @@
 # Research Catalog — Algo Brain
 
-**Inventory date:** 2026-10-13. **37 canonical paper notes:** 1 uploaded PDF reviewed + 36 literature-screening notes. **0 independently replicated by us.**
+**Inventory date:** 2026-10-13. **61 canonical paper notes:** 1 uploaded PDF reviewed + 60 literature-screening notes. **0 independently replicated by us.**
 
 | ID | Research paper | Primary home | Review status |
 |---|---|---|---|
@@ -61,3 +61,42 @@ Added 2026-10-13. Each entry contains metadata and an abstract-level or accessib
 
 ### Replication gate
 Every paper must pass full-text rule audit, provenance checks and causal holdout tests before a trading strategy can be called validated. 2026 source discovery does not imply current profitability.
+
+## High-quality academic expansion — PAPER-038 to PAPER-061
+
+**Added 2026-10-13: 24 additional primary-source-verified research notes.** Prioritized peer-reviewed publication venues, seminal methodologies, explicit economic mechanisms, and rigorous testing and cost controls. **Source review = publisher/author bibliographic metadata and abstract or openly available overview, not a full-text rule audit. No independent backtests performed.**
+
+| ID | Paper | Primary methodology | Evidence status |
+|---|---|---|---|
+| PAPER-38 | [[01 - Paper Library/PAPER-38 - Does Simple Pairs Trading Still Work|Does Simple Pairs Trading Still Work?]] | Statistical Arbitrage | primary publication source checked; replication pending |
+| PAPER-39 | [[01 - Paper Library/PAPER-39 - The profitability of pairs trading strategies distance cointegration and copula method|The profitability of pairs trading strategies: distance, cointegration and copula methods]] | Statistical Arbitrage | primary publication source checked; replication pending |
+| PAPER-40 | [[01 - Paper Library/PAPER-40 - Returns to Buying Winners and Selling Losers Implications for Stock Market Efficiency|Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency]] | Trend and Momentum | primary publication source checked; replication pending |
+| PAPER-41 | [[01 - Paper Library/PAPER-41 - Volatility-Managed Portfolios|Volatility-Managed Portfolios]] | Trend and Momentum | primary publication source checked; replication pending |
+| PAPER-42 | [[01 - Paper Library/PAPER-42 - Measuring the Information Content of Stock Trades|Measuring the Information Content of Stock Trades]] | Market Microstructure | primary publication source checked; replication pending |
+| PAPER-43 | [[01 - Paper Library/PAPER-43 - Optimal Execution of Portfolio Transactions|Optimal Execution of Portfolio Transactions]] | Market Microstructure | primary publication source checked; replication pending |
+| PAPER-44 | [[01 - Paper Library/PAPER-44 - A Reality Check for Data Snooping|A Reality Check for Data Snooping]] | Machine Learning | primary publication source checked; replication pending |
+| PAPER-45 | [[01 - Paper Library/PAPER-45 - The Probability of Backtest Overfitting|The Probability of Backtest Overfitting]] | Machine Learning | primary publication source checked; replication pending |
+| PAPER-46 | [[01 - Paper Library/PAPER-46 - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting|Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting]] | Deep Learning | primary publication source checked; replication pending |
+| PAPER-47 | [[01 - Paper Library/PAPER-47 - Deep Hedging|Deep Hedging]] | Deep Learning | primary publication source checked; replication pending |
+| PAPER-48 | [[01 - Paper Library/PAPER-48 - The Information Bottleneck Method|The Information Bottleneck Method]] | Information Theory | primary publication source checked; replication pending |
+| PAPER-49 | [[01 - Paper Library/PAPER-49 - Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables|Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables]] | Information Theory | primary publication source checked; replication pending |
+| PAPER-50 | [[01 - Paper Library/PAPER-50 - Cross-section of option returns and volatility|Cross-section of option returns and volatility]] | Volatility and Derivatives | primary publication source checked; replication pending |
+| PAPER-51 | [[01 - Paper Library/PAPER-51 - Dynamic estimation of volatility risk premia and investor risk aversion from option-im|Dynamic estimation of volatility risk premia and investor risk aversion from option-implied and realized volatilities]] | Volatility and Derivatives | primary publication source checked; replication pending |
+| PAPER-52 | [[01 - Paper Library/PAPER-52 - Dynamic linear models with Markov-switching|Dynamic linear models with Markov-switching]] | Regime Detection | primary publication source checked; replication pending |
+| PAPER-53 | [[01 - Paper Library/PAPER-53 - Asset allocation under multivariate regime switching|Asset allocation under multivariate regime switching]] | Regime Detection | primary publication source checked; replication pending |
+| PAPER-54 | [[01 - Paper Library/PAPER-54 - Does the Stock Market Overreact|Does the Stock Market Overreact?]] | Mean Reversion | primary publication source checked; replication pending |
+| PAPER-55 | [[01 - Paper Library/PAPER-55 - Evaporating Liquidity|Evaporating Liquidity]] | Mean Reversion | primary publication source checked; replication pending |
+| PAPER-56 | [[01 - Paper Library/PAPER-56 - Optimal Versus Naive Diversification How Inefficient is the 1N Portfolio Strategy|Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?]] | Optimization and Physics | primary publication source checked; replication pending |
+| PAPER-57 | [[01 - Paper Library/PAPER-57 - Quantum computing for finance Overview and prospects|Quantum computing for finance: Overview and prospects]] | Optimization and Physics | primary publication source checked; replication pending |
+| PAPER-58 | [[01 - Paper Library/PAPER-58 - A Theory of Intraday Patterns Volume and Price Variability|A Theory of Intraday Patterns: Volume and Price Variability]] | Intraday Price Structure | primary publication source checked; replication pending |
+| PAPER-59 | [[01 - Paper Library/PAPER-59 - Intraday periodicity and volatility persistence in financial markets|Intraday periodicity and volatility persistence in financial markets]] | Intraday Price Structure | primary publication source checked; replication pending |
+| PAPER-60 | [[01 - Paper Library/PAPER-60 - Common risk factors in the returns on stocks and bonds|Common risk factors in the returns on stocks and bonds]] | Cross Asset and Macro | primary publication source checked; replication pending |
+| PAPER-61 | [[01 - Paper Library/PAPER-61 - Carry Trades and Currency Crashes|Carry Trades and Currency Crashes]] | Cross Asset and Macro | primary publication source checked; replication pending |
+
+### High-priority reading and validation map
+- **Research integrity:** PAPER-044 White and PAPER-045 Bailey et al. are safeguards against over-selected backtests. They provide different tests; neither is a license to reuse the same OOS set repeatedly.
+- **SPY/noise-boundary/price structure:** PAPER-058 Admati–Pfleiderer and PAPER-059 Andersen–Bollerslev formalize intraday seasonality, relevant to PAPER-001 and PAPER-012 without validating either strategy.
+- **Execution:** PAPER-042 Hasbrouck and PAPER-043 Almgren–Chriss are critical for translating signal curves into execution-aware tests.
+- **Information gain:** PAPER-048 Tishby and PAPER-049 Barnett–Barrett–Seth are methodological complements to PAPER-007 Kelly; information theory does **not** prove profitable market predictions.
+- **Mean reversion:** PAPER-054 De Bondt–Thaler and PAPER-055 Nagel concern vastly different horizons/mechanisms. Avoid merging into one generic reversion edge.
+- **Portfolio physics:** PAPER-056 DeMiguel et al. requires optimizer comparisons against 1/N, and PAPER-057 Orús et al. is a *review*, not evidence for quantum outperformance.
