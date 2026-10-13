@@ -22,3 +22,7 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-007 - A New Interpretation of Information Rate - Kelly 1956|PAPER-007 — A New Interpretation of Information Rate - Kelly 1956]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-024 - A Mathematical Theory of Communication|PAPER-024 — A Mathematical Theory of Communication]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-025 - Measuring Information Transfer|PAPER-025 — Measuring Information Transfer]] — literature screening, not independently replicated.
