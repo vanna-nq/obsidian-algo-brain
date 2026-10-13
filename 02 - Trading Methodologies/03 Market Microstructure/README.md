@@ -24,3 +24,7 @@ _Unresolved claims requiring independent checks._
 - [[01 - Paper Library/PAPER-001 - Beat the Market - SPY Intraday Momentum|PAPER-001 — Beat the Market: SPY Intraday Momentum]] — literature-reviewed; author-reported historical performance; not replicated.
 
 - [[01 - Paper Library/PAPER-004 - Continuous Auctions and Insider Trading - Kyle 1985|PAPER-004 — Continuous Auctions and Insider Trading - Kyle 1985]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-018 - Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Trade|PAPER-018 — Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-019 - The Price Impact of Order Book Events|PAPER-019 — The Price Impact of Order Book Events]] — literature screening, not independently replicated.
