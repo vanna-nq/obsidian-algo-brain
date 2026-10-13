@@ -40,3 +40,9 @@ New scholarly references verified against publisher/author abstracts; not yet fu
 Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
 - [[01 - Paper Library/PAPER-082 - Periodic market closure and trading volume A model of intraday bids and asks|PAPER-082 — Periodic market closure and trading volume: A model of intraday bids and asks]] — screened, not replicated.
 - [[01 - Paper Library/PAPER-083 - A transaction data study of weekly and intradaily patterns in stock returns|PAPER-083 — A transaction data study of weekly and intradaily patterns in stock returns]] — screened, not replicated.
+
+## Research Frontier: exotic processes and structures
+
+These are published-source-screened **hypothesis leads**, not tested strategies or full-text audited replications.
+- [[01 - Paper Library/PAPER-103 - Diffusive and Arrestedlike Dynamics in Currency Exchange Markets|PAPER-103 — Diffusive and Arrestedlike Dynamics in Currency Exchange Markets]] — untested, see proposed test and data requirements.
+- [[01 - Paper Library/PAPER-104 - A model for foreign exchange markets based on glassy Brownian systems|PAPER-104 — A model for foreign exchange markets based on glassy Brownian systems]] — untested, see proposed test and data requirements.

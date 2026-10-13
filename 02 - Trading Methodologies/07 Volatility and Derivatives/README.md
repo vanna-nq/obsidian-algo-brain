@@ -40,3 +40,9 @@ New scholarly references verified against publisher/author abstracts; not yet fu
 Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
 - [[01 - Paper Library/PAPER-074 - The Pricing of Options and Corporate Liabilities|PAPER-074 — The Pricing of Options and Corporate Liabilities]] — screened, not replicated.
 - [[01 - Paper Library/PAPER-075 - Option Prices Implied Price Processes and Stochastic Volatility|PAPER-075 — Option Prices, Implied Price Processes, and Stochastic Volatility]] — screened, not replicated.
+
+## Research Frontier: exotic processes and structures
+
+These are published-source-screened **hypothesis leads**, not tested strategies or full-text audited replications.
+- [[01 - Paper Library/PAPER-086 - Volatility is rough|PAPER-086 — Volatility is rough]] — untested, see proposed test and data requirements.
+- [[01 - Paper Library/PAPER-089 - The Zumbach effect under rough Heston|PAPER-089 — The Zumbach effect under rough Heston]] — untested, see proposed test and data requirements.

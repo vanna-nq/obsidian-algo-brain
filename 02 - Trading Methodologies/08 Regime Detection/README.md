@@ -40,3 +40,10 @@ New scholarly references verified against publisher/author abstracts; not yet fu
 Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
 - [[01 - Paper Library/PAPER-076 - Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of Un|PAPER-076 — Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation]] — screened, not replicated.
 - [[01 - Paper Library/PAPER-077 - Generalized autoregressive conditional heteroskedasticity|PAPER-077 — Generalized autoregressive conditional heteroskedasticity]] — screened, not replicated.
+
+## Research Frontier: exotic processes and structures
+
+These are published-source-screened **hypothesis leads**, not tested strategies or full-text audited replications.
+- [[01 - Paper Library/PAPER-091 - Topological Data Analysis of Financial Time Series Landscapes of Crashes|PAPER-091 — Topological Data Analysis of Financial Time Series Landscapes of Crashes]] — untested, see proposed test and data requirements.
+- [[01 - Paper Library/PAPER-092 - Early warning signals for stock market crashes empirical and analytical insights util|PAPER-092 — Early warning signals for stock market crashes empirical and analytical insights util]] — untested, see proposed test and data requirements.
+- [[01 - Paper Library/PAPER-098 - Large financial crashes|PAPER-098 — Large financial crashes]] — untested, see proposed test and data requirements.

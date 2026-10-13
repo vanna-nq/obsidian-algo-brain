@@ -38,3 +38,9 @@ New scholarly references verified against publisher/author abstracts; not yet fu
 Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
 - [[01 - Paper Library/PAPER-072 - On the Impossibility of Informationally Efficient Markets|PAPER-072 — On the Impossibility of Informationally Efficient Markets]] — screened, not replicated.
 - [[01 - Paper Library/PAPER-073 - Information Theory and Statistical Mechanics|PAPER-073 — Information Theory and Statistical Mechanics]] — screened, not replicated.
+
+## Research Frontier: exotic processes and structures
+
+These are published-source-screened **hypothesis leads**, not tested strategies or full-text audited replications.
+- [[01 - Paper Library/PAPER-088 - Time reversal invariance in finance|PAPER-088 — Time reversal invariance in finance]] — untested, see proposed test and data requirements.
+- [[01 - Paper Library/PAPER-090 - Permutation Entropy A Natural Complexity Measure for Time Series|PAPER-090 — Permutation Entropy A Natural Complexity Measure for Time Series]] — untested, see proposed test and data requirements.

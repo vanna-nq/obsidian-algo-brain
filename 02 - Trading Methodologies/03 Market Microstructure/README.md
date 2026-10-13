@@ -40,3 +40,10 @@ New scholarly references verified against publisher/author abstracts; not yet fu
 Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
 - [[01 - Paper Library/PAPER-066 - Order Flow and Exchange Rate Dynamics|PAPER-066 — Order Flow and Exchange Rate Dynamics]] — screened, not replicated.
 - [[01 - Paper Library/PAPER-067 - Price Dynamics in a Markovian Limit Order Market|PAPER-067 — Price Dynamics in a Markovian Limit Order Market]] — screened, not replicated.
+
+## Research Frontier: exotic processes and structures
+
+These are published-source-screened **hypothesis leads**, not tested strategies or full-text audited replications.
+- [[01 - Paper Library/PAPER-094 - Optimal Execution with Rough Path Signatures|PAPER-094 — Optimal Execution with Rough Path Signatures]] — untested, see proposed test and data requirements.
+- [[01 - Paper Library/PAPER-097 - Hawkes processes in finance|PAPER-097 — Hawkes processes in finance]] — untested, see proposed test and data requirements.
+- [[01 - Paper Library/PAPER-102 - From quadratic Hawkes processes to super-Heston rough volatility models with Zumbach |PAPER-102 — From quadratic Hawkes processes to super-Heston rough volatility models with Zumbach ]] — untested, see proposed test and data requirements.

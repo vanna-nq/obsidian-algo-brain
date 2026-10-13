@@ -38,3 +38,8 @@ New scholarly references verified against publisher/author abstracts; not yet fu
 Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
 - [[01 - Paper Library/PAPER-084 - Betting against beta|PAPER-084 — Betting against beta]] — screened, not replicated.
 - [[01 - Paper Library/PAPER-085 - Forward and spot exchange rates|PAPER-085 — Forward and spot exchange rates]] — screened, not replicated.
+
+## Research Frontier: exotic processes and structures
+
+These are published-source-screened **hypothesis leads**, not tested strategies or full-text audited replications.
+- [[01 - Paper Library/PAPER-096 - Dynamics of market correlations Taxonomy and portfolio analysis|PAPER-096 — Dynamics of market correlations Taxonomy and portfolio analysis]] — untested, see proposed test and data requirements.
