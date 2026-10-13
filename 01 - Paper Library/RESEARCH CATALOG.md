@@ -1,6 +1,6 @@
 # Research Catalog — Algo Brain
 
-**Inventory date:** 2026-10-13. **61 canonical paper notes:** 1 uploaded PDF reviewed + 60 literature-screening notes. **0 independently replicated by us.**
+**Inventory date:** 2026-10-13. **85 canonical paper notes:** 1 uploaded PDF reviewed + 84 literature-screening notes. **0 independently replicated by us.**
 
 | ID | Research paper | Primary home | Review status |
 |---|---|---|---|
@@ -100,3 +100,44 @@ Every paper must pass full-text rule audit, provenance checks and causal holdout
 - **Information gain:** PAPER-048 Tishby and PAPER-049 Barnett–Barrett–Seth are methodological complements to PAPER-007 Kelly; information theory does **not** prove profitable market predictions.
 - **Mean reversion:** PAPER-054 De Bondt–Thaler and PAPER-055 Nagel concern vastly different horizons/mechanisms. Avoid merging into one generic reversion edge.
 - **Portfolio physics:** PAPER-056 DeMiguel et al. requires optimizer comparisons against 1/N, and PAPER-057 Orús et al. is a *review*, not evidence for quantum outperformance.
+
+## Peer-reviewed foundation expansion — PAPER-062 to PAPER-085
+
+**Added 2026-10-13 — 24 further scholarly notes, two per trading research category.** Verified publisher and scholarly-source records/abstracts; not full-text audits. **No new backtests, validated strategies or performance claims.** We did not download and rehost copyrighted publisher PDFs.
+
+| ID | Canonical paper note | Methodology | Evidence status |
+|---|---|---|---|
+| PAPER-062 | [[01 - Paper Library/PAPER-062 - Testing market efficiency using statistical arbitrage with applications to momentu|Testing market efficiency using statistical arbitrage with applications to momentum and value strategies]] | Statistical Arbitrage | peer-reviewed/conference source screen, unreplicated |
+| PAPER-063 | [[01 - Paper Library/PAPER-063 - Analytic solutions for optimal statistical arbitrage trading|Analytic solutions for optimal statistical arbitrage trading]] | Statistical Arbitrage | peer-reviewed/conference source screen, unreplicated |
+| PAPER-064 | [[01 - Paper Library/PAPER-064 - Momentum has its moments|Momentum has its moments]] | Trend and Momentum | peer-reviewed/conference source screen, unreplicated |
+| PAPER-065 | [[01 - Paper Library/PAPER-065 - Bad News Travels Slowly Size Analyst Coverage and the Profitability of Momentum St|Bad News Travels Slowly: Size, Analyst Coverage, and the Profitability of Momentum Strategies]] | Trend and Momentum | peer-reviewed/conference source screen, unreplicated |
+| PAPER-066 | [[01 - Paper Library/PAPER-066 - Order Flow and Exchange Rate Dynamics|Order Flow and Exchange Rate Dynamics]] | Market Microstructure | peer-reviewed/conference source screen, unreplicated |
+| PAPER-067 | [[01 - Paper Library/PAPER-067 - Price Dynamics in a Markovian Limit Order Market|Price Dynamics in a Markovian Limit Order Market]] | Market Microstructure | peer-reviewed/conference source screen, unreplicated |
+| PAPER-068 | [[01 - Paper Library/PAPER-068 - Random Forests|Random Forests]] | Machine Learning | peer-reviewed/conference source screen, unreplicated |
+| PAPER-069 | [[01 - Paper Library/PAPER-069 - XGBoost A Scalable Tree Boosting System|XGBoost: A Scalable Tree Boosting System]] | Machine Learning | peer-reviewed/conference source screen, unreplicated |
+| PAPER-070 | [[01 - Paper Library/PAPER-070 - Deep order flow imbalance Extracting alpha at multiple horizons from the limit ord|Deep order flow imbalance: Extracting alpha at multiple horizons from the limit order book]] | Deep Learning | peer-reviewed/conference source screen, unreplicated |
+| PAPER-071 | [[01 - Paper Library/PAPER-071 - Attention Is All You Need|Attention Is All You Need]] | Deep Learning | peer-reviewed/conference source screen, unreplicated |
+| PAPER-072 | [[01 - Paper Library/PAPER-072 - On the Impossibility of Informationally Efficient Markets|On the Impossibility of Informationally Efficient Markets]] | Information Theory | peer-reviewed/conference source screen, unreplicated |
+| PAPER-073 | [[01 - Paper Library/PAPER-073 - Information Theory and Statistical Mechanics|Information Theory and Statistical Mechanics]] | Information Theory | peer-reviewed/conference source screen, unreplicated |
+| PAPER-074 | [[01 - Paper Library/PAPER-074 - The Pricing of Options and Corporate Liabilities|The Pricing of Options and Corporate Liabilities]] | Volatility and Derivatives | peer-reviewed/conference source screen, unreplicated |
+| PAPER-075 | [[01 - Paper Library/PAPER-075 - Option Prices Implied Price Processes and Stochastic Volatility|Option Prices, Implied Price Processes, and Stochastic Volatility]] | Volatility and Derivatives | peer-reviewed/conference source screen, unreplicated |
+| PAPER-076 | [[01 - Paper Library/PAPER-076 - Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of Un|Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation]] | Regime Detection | peer-reviewed/conference source screen, unreplicated |
+| PAPER-077 | [[01 - Paper Library/PAPER-077 - Generalized autoregressive conditional heteroskedasticity|Generalized autoregressive conditional heteroskedasticity]] | Regime Detection | peer-reviewed/conference source screen, unreplicated |
+| PAPER-078 | [[01 - Paper Library/PAPER-078 - Stock Market Prices Do Not Follow Random Walks Evidence from a Simple Specificatio|Stock Market Prices Do Not Follow Random Walks: Evidence from a Simple Specification Test]] | Mean Reversion | peer-reviewed/conference source screen, unreplicated |
+| PAPER-079 | [[01 - Paper Library/PAPER-079 - Contrarian Investment Extrapolation and Risk|Contrarian Investment, Extrapolation, and Risk]] | Mean Reversion | peer-reviewed/conference source screen, unreplicated |
+| PAPER-080 | [[01 - Paper Library/PAPER-080 - Optimization by Simulated Annealing|Optimization by Simulated Annealing]] | Optimization and Physics | peer-reviewed/conference source screen, unreplicated |
+| PAPER-081 | [[01 - Paper Library/PAPER-081 - Global Portfolio Optimization|Global Portfolio Optimization]] | Optimization and Physics | peer-reviewed/conference source screen, unreplicated |
+| PAPER-082 | [[01 - Paper Library/PAPER-082 - Periodic market closure and trading volume A model of intraday bids and asks|Periodic market closure and trading volume: A model of intraday bids and asks]] | Intraday Price Structure | peer-reviewed/conference source screen, unreplicated |
+| PAPER-083 | [[01 - Paper Library/PAPER-083 - A transaction data study of weekly and intradaily patterns in stock returns|A transaction data study of weekly and intradaily patterns in stock returns]] | Intraday Price Structure | peer-reviewed/conference source screen, unreplicated |
+| PAPER-084 | [[01 - Paper Library/PAPER-084 - Betting against beta|Betting against beta]] | Cross Asset and Macro | peer-reviewed/conference source screen, unreplicated |
+| PAPER-085 | [[01 - Paper Library/PAPER-085 - Forward and spot exchange rates|Forward and spot exchange rates]] | Cross Asset and Macro | peer-reviewed/conference source screen, unreplicated |
+
+### Highest-impact combinations to audit next
+- **PAPER-067 + PAPER-070:** event-level order-book queue mechanics vs deep OFI forecasting; both require order-book feeds and valid execution models, not candle-based proxies.
+- **PAPER-064 + PAPER-076/077:** momentum volatility targeting and ARCH/GARCH risk estimation; compare to historical-vol and fixed-notional baselines without leverage contamination.
+- **PAPER-062 + PAPER-078:** distinguish rejecting a random-walk null from proving a statistically valid implementable arbitrage.
+- **PAPER-072 + PAPER-073 + PAPER-007:** valuable information, maximum entropy and Kelly log-growth are separate frameworks; none guarantees positive net strategy alpha.
+- **PAPER-080 + PAPER-081:** contrast solver optimality for a chosen portfolio objective against actual portfolio forecast accuracy and out-of-sample efficiency.
+- **PAPER-082 + PAPER-083 + PAPER-001:** opening/closing liquidity seasonality and historical intraday return patterns are not guaranteed modern HOD/LOD predictors.
+
+**Research rule:** Freeze one test at a time. Dataset preview must precede code. Preserve all negative results and versioned decisions. No promotion to Validated Models without executed causal evidence.
