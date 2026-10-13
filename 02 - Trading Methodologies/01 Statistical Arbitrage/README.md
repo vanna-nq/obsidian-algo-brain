@@ -19,3 +19,6 @@ _Link experiment IDs including negative results._
 
 ## Open questions
 _Unresolved claims requiring independent checks._
+
+## Papers
+- [[01 - Paper Library/PAPER-002 - Pairs Trading - Gatev Goetzmann Rouwenhorst 2006|PAPER-002 — Pairs Trading - Gatev Goetzmann Rouwenhorst 2006]] — abstract screened; independent reproduction pending.
