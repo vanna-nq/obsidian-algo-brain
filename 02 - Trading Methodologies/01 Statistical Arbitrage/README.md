@@ -26,3 +26,9 @@ _Unresolved claims requiring independent checks._
 ## 2026 research additions
 - [[01 - Paper Library/PAPER-014 - Co-Integration and Error Correction|PAPER-014 — Co-Integration and Error Correction]] — literature screening, not independently replicated.
 - [[01 - Paper Library/PAPER-015 - Pairs Trading|PAPER-015 — Pairs Trading]] — literature screening, not independently replicated.
+
+## Verified-source literature: PAPER-038–061
+
+New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
+- [[01 - Paper Library/PAPER-38 - Does Simple Pairs Trading Still Work|PAPER-38 — Does Simple Pairs Trading Still Work?]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-39 - The profitability of pairs trading strategies distance cointegration and copula method|PAPER-39 — The profitability of pairs trading strategies: distance, cointegration and copula methods]] — primary source verified; independent replication pending.
