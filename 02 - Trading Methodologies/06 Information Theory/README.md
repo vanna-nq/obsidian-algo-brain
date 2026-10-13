@@ -32,3 +32,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-048 - The Information Bottleneck Method|PAPER-048 — The Information Bottleneck Method]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-049 - Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables|PAPER-049 — Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-072 - On the Impossibility of Informationally Efficient Markets|PAPER-072 — On the Impossibility of Informationally Efficient Markets]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-073 - Information Theory and Statistical Mechanics|PAPER-073 — Information Theory and Statistical Mechanics]] — screened, not replicated.
