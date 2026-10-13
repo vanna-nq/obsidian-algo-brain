@@ -34,3 +34,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-040 - Returns to Buying Winners and Selling Losers Implications for Stock Market Efficiency|PAPER-040 — Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-041 - Volatility-Managed Portfolios|PAPER-041 — Volatility-Managed Portfolios]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-064 - Momentum has its moments|PAPER-064 — Momentum has its moments]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-065 - Bad News Travels Slowly Size Analyst Coverage and the Profitability of Momentum St|PAPER-065 — Bad News Travels Slowly: Size, Analyst Coverage, and the Profitability of Momentum Strategies]] — screened, not replicated.
