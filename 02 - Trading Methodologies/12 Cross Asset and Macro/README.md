@@ -19,3 +19,6 @@ _Link experiment IDs including negative results._
 
 ## Open questions
 _Unresolved claims requiring independent checks._
+
+## Papers
+- [[01 - Paper Library/PAPER-013 - Value and Momentum Everywhere - Asness Moskowitz Pedersen 2013|PAPER-013 — Value and Momentum Everywhere - Asness Moskowitz Pedersen 2013]] — abstract screened; independent reproduction pending.
