@@ -40,3 +40,8 @@ Statistical Arbitrage · Trend and Momentum · Market Microstructure · Machine 
 
 ## New: Unconventional research frontier (2026-10-13)
 [[01 - Paper Library/RESEARCH FRONTIER|19 experimental market physics / topology / dynamics studies]] — PAPER-086 to PAPER-104. **Source screened, not independently replicated.**
+
+## Research Intelligence System (2026-10-13)
+- [[03 - Mathematical Foundations/KNOWLEDGE GRAPH|104-paper Mathematical Knowledge Graph]] — 16 mathematical mechanism families and 27 typed research connections.
+- [[05 - Strategy Hypotheses/RESEARCH INTELLIGENCE INDEX|Research Intelligence Index]] — 15 testable or blocked hypotheses with baseline/data gates.
+- [[06 - Experiments and Backtests/EXP-F001 - Permutation Entropy Data and Method Audit|EXP-F001 paper and GC.F data audit]] — planned first task, NOT an executed model or backtest.
