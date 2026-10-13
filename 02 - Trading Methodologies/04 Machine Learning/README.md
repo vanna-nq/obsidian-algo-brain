@@ -26,3 +26,9 @@ _Unresolved claims requiring independent checks._
 ## 2026 research additions
 - [[01 - Paper Library/PAPER-020 - Deep Neural Networks Gradient-Boosted Trees Random Forests Statistical Arbitrage on the S&|PAPER-020 — Deep Neural Networks Gradient-Boosted Trees Random Forests: Statistical Arbitrage on the S&P 500]] — literature screening, not independently replicated.
 - [[01 - Paper Library/PAPER-021 - Out-of-Sample Equity Premium Prediction Combination Forecasts and Links to the Real Econom|PAPER-021 — Out-of-Sample Equity Premium Prediction: Combination Forecasts and Links to the Real Economy]] — literature screening, not independently replicated.
+
+## Verified-source literature: PAPER-038–061
+
+New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
+- [[01 - Paper Library/PAPER-44 - A Reality Check for Data Snooping|PAPER-44 — A Reality Check for Data Snooping]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-45 - The Probability of Backtest Overfitting|PAPER-45 — The Probability of Backtest Overfitting]] — primary source verified; independent replication pending.
