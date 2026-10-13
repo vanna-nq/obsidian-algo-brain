@@ -28,3 +28,9 @@ _Unresolved claims requiring independent checks._
 ## 2026 research additions
 - [[01 - Paper Library/PAPER-026 - Expected Stock Returns and Variance Risk Premia|PAPER-026 — Expected Stock Returns and Variance Risk Premia]] — literature screening, not independently replicated.
 - [[01 - Paper Library/PAPER-027 - The VIX the Variance Premium and Stock Market Volatility|PAPER-027 — The VIX the Variance Premium and Stock Market Volatility]] — literature screening, not independently replicated.
+
+## Verified-source literature: PAPER-038–061
+
+New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
+- [[01 - Paper Library/PAPER-50 - Cross-section of option returns and volatility|PAPER-50 — Cross-section of option returns and volatility]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-51 - Dynamic estimation of volatility risk premia and investor risk aversion from option-im|PAPER-51 — Dynamic estimation of volatility risk premia and investor risk aversion from option-implied and realized volatilities]] — primary source verified; independent replication pending.
