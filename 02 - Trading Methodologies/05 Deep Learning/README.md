@@ -22,3 +22,7 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-006 - DeepLOB - Zhang Zohren Roberts 2018|PAPER-006 — DeepLOB - Zhang Zohren Roberts 2018]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-022 - Universal Features of Price Formation in Financial Markets Perspectives from Deep Learning|PAPER-022 — Universal Features of Price Formation in Financial Markets: Perspectives from Deep Learning]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-023 - Enhancing Time Series Momentum Strategies Using Deep Neural Networks|PAPER-023 — Enhancing Time Series Momentum Strategies Using Deep Neural Networks]] — literature screening, not independently replicated.
