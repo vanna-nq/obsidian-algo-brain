@@ -32,3 +32,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-056 - Optimal Versus Naive Diversification How Inefficient is the 1N Portfolio Strategy|PAPER-056 — Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-057 - Quantum computing for finance Overview and prospects|PAPER-057 — Quantum computing for finance: Overview and prospects]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-080 - Optimization by Simulated Annealing|PAPER-080 — Optimization by Simulated Annealing]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-081 - Global Portfolio Optimization|PAPER-081 — Global Portfolio Optimization]] — screened, not replicated.
