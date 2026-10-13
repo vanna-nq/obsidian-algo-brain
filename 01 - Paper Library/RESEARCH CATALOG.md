@@ -1,6 +1,6 @@
 # Research Catalog — Algo Brain
 
-**Inventory date:** 2026-10-13. **85 canonical paper notes:** 1 uploaded PDF reviewed + 84 literature-screening notes. **0 independently replicated by us.**
+**Inventory date:** 2026-10-13. **104 canonical paper notes:** 1 uploaded PDF reviewed + 103 literature-screening notes. **0 independently replicated by us.**
 
 | ID | Research paper | Primary home | Review status |
 |---|---|---|---|
@@ -141,3 +141,29 @@ Every paper must pass full-text rule audit, provenance checks and causal holdout
 - **PAPER-082 + PAPER-083 + PAPER-001:** opening/closing liquidity seasonality and historical intraday return patterns are not guaranteed modern HOD/LOD predictors.
 
 **Research rule:** Freeze one test at a time. Dataset preview must precede code. Preserve all negative results and versioned decisions. No promotion to Validated Models without executed causal evidence.
+
+## Niche Research Frontier — PAPER-086 to PAPER-104
+
+**19 source-screened experimental papers** from econophysics, stochastic processes, nonlinear topology and information theory. Individual notes are not audited full texts or independently replicated. Open [[01 - Paper Library/RESEARCH FRONTIER|RESEARCH FRONTIER]] for prioritized experiments and dataset gaps.
+
+| ID | Paper | Primary methodology | Evidence level |
+|---|---|---|---|
+| PAPER-086 | [[01 - Paper Library/PAPER-086 - Volatility is rough|Volatility is rough]] | 07 Volatility and Derivatives | source-screened, not replicated |
+| PAPER-087 | [[01 - Paper Library/PAPER-087 - Modelling financial time series using multifractal random walks|Modelling financial time series using multifractal random walks]] | 10 Optimization and Physics | source-screened, not replicated |
+| PAPER-088 | [[01 - Paper Library/PAPER-088 - Time reversal invariance in finance|Time reversal invariance in finance]] | 06 Information Theory | source-screened, not replicated |
+| PAPER-089 | [[01 - Paper Library/PAPER-089 - The Zumbach effect under rough Heston|The Zumbach effect under rough Heston]] | 07 Volatility and Derivatives | source-screened, not replicated |
+| PAPER-090 | [[01 - Paper Library/PAPER-090 - Permutation Entropy A Natural Complexity Measure for Time Series|Permutation Entropy: A Natural Complexity Measure for Time Series]] | 06 Information Theory | source-screened, not replicated |
+| PAPER-091 | [[01 - Paper Library/PAPER-091 - Topological Data Analysis of Financial Time Series Landscapes of Crashes|Topological Data Analysis of Financial Time Series: Landscapes of Crashes]] | 08 Regime Detection | source-screened, not replicated |
+| PAPER-092 | [[01 - Paper Library/PAPER-092 - Early warning signals for stock market crashes empirical and analytical insights util|Early warning signals for stock market crashes: empirical and analytical insights utilizing nonlinear methods]] | 08 Regime Detection | source-screened, not replicated |
+| PAPER-093 | [[01 - Paper Library/PAPER-093 - Signature Trading A Path-Dependent Extension of the Mean-Variance Framework with Exog|Signature Trading: A Path-Dependent Extension of the Mean-Variance Framework with Exogenous Signals]] | 10 Optimization and Physics | source-screened, not replicated |
+| PAPER-094 | [[01 - Paper Library/PAPER-094 - Optimal Execution with Rough Path Signatures|Optimal Execution with Rough Path Signatures]] | 03 Market Microstructure | source-screened, not replicated |
+| PAPER-095 | [[01 - Paper Library/PAPER-095 - Noise Dressing of Financial Correlation Matrices|Noise Dressing of Financial Correlation Matrices]] | 10 Optimization and Physics | source-screened, not replicated |
+| PAPER-096 | [[01 - Paper Library/PAPER-096 - Dynamics of market correlations Taxonomy and portfolio analysis|Dynamics of market correlations: Taxonomy and portfolio analysis]] | 12 Cross Asset and Macro | source-screened, not replicated |
+| PAPER-097 | [[01 - Paper Library/PAPER-097 - Hawkes processes in finance|Hawkes processes in finance]] | 03 Market Microstructure | source-screened, not replicated |
+| PAPER-098 | [[01 - Paper Library/PAPER-098 - Large financial crashes|Large financial crashes]] | 08 Regime Detection | source-screened, not replicated |
+| PAPER-099 | [[01 - Paper Library/PAPER-099 - Stylized facts of financial markets and market crashes in Minority Games|Stylized facts of financial markets and market crashes in Minority Games]] | 10 Optimization and Physics | source-screened, not replicated |
+| PAPER-100 | [[01 - Paper Library/PAPER-100 - Price variations in a stock market with many agents|Price variations in a stock market with many agents]] | 10 Optimization and Physics | source-screened, not replicated |
+| PAPER-101 | [[01 - Paper Library/PAPER-101 - Q-Gaussian diffusion in stock markets|Q-Gaussian diffusion in stock markets]] | 10 Optimization and Physics | source-screened, not replicated |
+| PAPER-102 | [[01 - Paper Library/PAPER-102 - From quadratic Hawkes processes to super-Heston rough volatility models with Zumbach |From quadratic Hawkes processes to super-Heston rough volatility models with Zumbach effect]] | 03 Market Microstructure | source-screened, not replicated |
+| PAPER-103 | [[01 - Paper Library/PAPER-103 - Diffusive and Arrestedlike Dynamics in Currency Exchange Markets|Diffusive and Arrestedlike Dynamics in Currency Exchange Markets]] | 11 Intraday Price Structure | source-screened, not replicated |
+| PAPER-104 | [[01 - Paper Library/PAPER-104 - A model for foreign exchange markets based on glassy Brownian systems|A model for foreign exchange markets based on glassy Brownian systems]] | 11 Intraday Price Structure | source-screened, not replicated |

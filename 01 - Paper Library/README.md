@@ -6,7 +6,7 @@ One canonical note per paper, using the Paper Note Template. Include bibliograph
 - [[01 - Paper Library/PAPER-001 - Beat the Market - SPY Intraday Momentum|PAPER-001 — Beat the Market: SPY Intraday Momentum]] — literature-reviewed; author-reported historical performance; not replicated.
 
 ## Current catalog
-[[01 - Paper Library/RESEARCH CATALOG|RESEARCH CATALOG]] — 85 papers total, evidence status and links.
+[[01 - Paper Library/RESEARCH CATALOG|RESEARCH CATALOG]] — 104 papers total, evidence status and links.
 
 ## Literature expansion (2026-10-13)
 - [[01 - Paper Library/RESEARCH CATALOG|Research Catalog]] contained **37** research notes at that checkpoint, with **2 additional academic references per methodology category** (PAPER-014 to PAPER-037).
@@ -22,3 +22,6 @@ One canonical note per paper, using the Paper Note Template. Include bibliograph
 - [[01 - Paper Library/RESEARCH CATALOG|Research Catalog]] now indexes **85 canonical research notes**, including 24 additional peer-reviewed/conference sources in the latest batch.
 - Every new note is a verified source-level literature summary with mechanism, proposed falsifiable test, data prerequisites and limitations. No full-text audit or independent backtest has been conducted for this batch.
 - Papers are indexed across 12 methodology folders; do not confuse author-reported results with our validated models.
+
+## Unconventional Models
+[[01 - Paper Library/RESEARCH FRONTIER|Research Frontier]] — 19 experimental source-screened papers, PAPER-086 through PAPER-104. Not validated strategies.

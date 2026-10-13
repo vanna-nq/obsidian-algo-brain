@@ -20,7 +20,7 @@ Statistical Arbitrage · Trend and Momentum · Market Microstructure · Machine 
 - Preserve unsuccessful experiments and track data provenance, fill assumptions, and research selection bias.
 - Sync these Markdown files back into Obsidian through the configured GitHub plugin.
 
-## Research catalog (85 papers)
+## Research catalog (104 papers)
 [[01 - Paper Library/RESEARCH CATALOG|Open the Research Catalog]] — one foundational paper screened for each of the 12 methodology branches, plus the SPY intraday momentum PDF review.
 
 ## Literature expansion (2026-10-13)
@@ -37,3 +37,6 @@ Statistical Arbitrage · Trend and Momentum · Market Microstructure · Machine 
 - [[01 - Paper Library/RESEARCH CATALOG|Research Catalog]] now indexes **85 canonical research notes**, including 24 additional peer-reviewed/conference sources in the latest batch.
 - Every new note is a verified source-level literature summary with mechanism, proposed falsifiable test, data prerequisites and limitations. No full-text audit or independent backtest has been conducted for this batch.
 - Papers are indexed across 12 methodology folders; do not confuse author-reported results with our validated models.
+
+## New: Unconventional research frontier (2026-10-13)
+[[01 - Paper Library/RESEARCH FRONTIER|19 experimental market physics / topology / dynamics studies]] — PAPER-086 to PAPER-104. **Source screened, not independently replicated.**
