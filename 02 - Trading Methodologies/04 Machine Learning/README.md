@@ -19,3 +19,6 @@ _Link experiment IDs including negative results._
 
 ## Open questions
 _Unresolved claims requiring independent checks._
+
+## Papers
+- [[01 - Paper Library/PAPER-005 - Empirical Asset Pricing via Machine Learning - Gu Kelly Xiu 2020|PAPER-005 — Empirical Asset Pricing via Machine Learning - Gu Kelly Xiu 2020]] — abstract screened; independent reproduction pending.
