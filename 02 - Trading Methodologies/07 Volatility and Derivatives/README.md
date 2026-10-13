@@ -34,3 +34,9 @@ _Unresolved claims requiring independent checks._
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
 - [[01 - Paper Library/PAPER-050 - Cross-section of option returns and volatility|PAPER-050 — Cross-section of option returns and volatility]] — primary source verified; independent replication pending.
 - [[01 - Paper Library/PAPER-051 - Dynamic estimation of volatility risk premia and investor risk aversion from option-im|PAPER-051 — Dynamic estimation of volatility risk premia and investor risk aversion from option-implied and realized volatilities]] — primary source verified; independent replication pending.
+
+## Reviewed 2026 academic expansion — PAPER-062–085
+
+Verified published research records and abstracts; original papers must be fully audited before implementation. **No backtests executed.**
+- [[01 - Paper Library/PAPER-074 - The Pricing of Options and Corporate Liabilities|PAPER-074 — The Pricing of Options and Corporate Liabilities]] — screened, not replicated.
+- [[01 - Paper Library/PAPER-075 - Option Prices Implied Price Processes and Stochastic Volatility|PAPER-075 — Option Prices, Implied Price Processes, and Stochastic Volatility]] — screened, not replicated.
