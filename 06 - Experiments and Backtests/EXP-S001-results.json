@@ -1,0 +1,228 @@
+{
+  "N": 30002,
+  "all_passed": true,
+  "controls": [
+    {
+      "absolute_error_bits": 0.0,
+      "observed": {
+        "N": 7,
+        "counts": {
+          "01": 4,
+          "10": 2
+        },
+        "entropy_bits": 0.9182958340544896,
+        "m": 2,
+        "normalized_entropy": 0.9182958340544896,
+        "preview_first_12": [
+          4,
+          7,
+          9,
+          10,
+          6,
+          11,
+          3
+        ],
+        "tied_windows": 0,
+        "window_count": 6
+      },
+      "oracle_bits": 0.9182958340544896,
+      "passed": true,
+      "required_nonzero_counts": [
+        4,
+        2
+      ],
+      "test": "author_toy_m2"
+    },
+    {
+      "absolute_error_bits": 0.0,
+      "observed": {
+        "N": 7,
+        "counts": {
+          "012": 2,
+          "102": 1,
+          "201": 2
+        },
+        "entropy_bits": 1.5219280948873621,
+        "m": 3,
+        "normalized_entropy": 0.5887621559162939,
+        "preview_first_12": [
+          4,
+          7,
+          9,
+          10,
+          6,
+          11,
+          3
+        ],
+        "tied_windows": 0,
+        "window_count": 5
+      },
+      "oracle_bits": 1.5219280948873621,
+      "passed": true,
+      "required_nonzero_counts": [
+        2,
+        2,
+        1
+      ],
+      "test": "author_toy_m3"
+    },
+    {
+      "absolute_error_bits": 0.0,
+      "observed": {
+        "N": 30002,
+        "counts": {
+          "012": 30000
+        },
+        "entropy_bits": -0.0,
+        "m": 3,
+        "normalized_entropy": -0.0,
+        "preview_first_12": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "tied_windows": 0,
+        "window_count": 30000
+      },
+      "oracle_bits": 0.0,
+      "passed": true,
+      "required_nonzero_counts": [
+        30000
+      ],
+      "test": "monotonic"
+    },
+    {
+      "absolute_error_bits": 0.0,
+      "observed": {
+        "N": 30002,
+        "counts": {
+          "021": 10000,
+          "102": 10000,
+          "210": 10000
+        },
+        "entropy_bits": 1.584962500721156,
+        "m": 3,
+        "normalized_entropy": 0.6131471927654584,
+        "preview_first_12": [
+          0,
+          2,
+          1,
+          0,
+          2,
+          1,
+          0,
+          2,
+          1,
+          0,
+          2,
+          1
+        ],
+        "tied_windows": 0,
+        "window_count": 30000
+      },
+      "oracle_bits": 1.584962500721156,
+      "passed": true,
+      "required_nonzero_counts": [
+        10000,
+        10000,
+        10000
+      ],
+      "test": "three_cycle"
+    },
+    {
+      "absolute_error_bits": null,
+      "observed": {
+        "N": 30002,
+        "counts": {
+          "012": 5036,
+          "021": 4930,
+          "102": 4929,
+          "120": 5087,
+          "201": 5087,
+          "210": 4931
+        },
+        "entropy_bits": 2.5848128693495833,
+        "m": 3,
+        "normalized_entropy": 0.9999421146838567,
+        "preview_first_12": [
+          -0.5042532222263326,
+          -0.41893061656589586,
+          1.5952930857778111,
+          -1.515371530631175,
+          -0.5327948379574451,
+          0.9998160528638692,
+          -1.1944733470051998,
+          0.7066574111515463,
+          -1.5552666235368213,
+          -1.0473918552510026,
+          1.415391582913024,
+          -1.2943935578410093
+        ],
+        "tied_windows": 0,
+        "window_count": 30000
+      },
+      "oracle_bits": null,
+      "passed": true,
+      "required_nonzero_counts": null,
+      "test": "gaussian_iid"
+    },
+    {
+      "absolute_error_bits": 0.0,
+      "observed": {
+        "N": 30002,
+        "counts": {
+          "012": 30000
+        },
+        "entropy_bits": -0.0,
+        "m": 3,
+        "normalized_entropy": -0.0,
+        "preview_first_12": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "tied_windows": 30000,
+        "window_count": 30000
+      },
+      "oracle_bits": 0.0,
+      "passed": true,
+      "required_nonzero_counts": [
+        30000
+      ],
+      "test": "all_tied"
+    }
+  ],
+  "delay": 1,
+  "empirical_results": null,
+  "execution_environment": "OpenAI assistant isolated Linux container; NOT Veron; NOT LSE Terminal",
+  "experiment_id": "EXP-S001",
+  "m": 3,
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "python_version": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "replay_command": "python3 EXP-S001.py",
+  "seed": 20261013,
+  "source_sha256": "f536590f555505e9a4bb7a624933ed5f5b096f97f3f196f0af727a8a823bd7bf",
+  "spec_commit_sha": "e20e7b65adaca1f0c73781bcebec3750023a3439",
+  "thresholds_frozen_at": "e20e7b65adaca1f0c73781bcebec3750023a3439",
+  "tie_rule": "ascending observed value; on equal value ascending time index (adaptation)",
+  "trading_results": null,
+  "verdict": "PASS - synthetic numerical invariants only"
+}

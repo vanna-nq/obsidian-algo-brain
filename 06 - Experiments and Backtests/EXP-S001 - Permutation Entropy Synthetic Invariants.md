@@ -2,7 +2,7 @@
 type: experiment
 experiment_id: "EXP-S001"
 track: "synthetic-mathematics"
-status: "FROZEN-NOT-EXECUTED"
+status: "EXECUTED-PASS-SYNTHETIC-INVARIANTS"
 seed: 20261013
 sample_length: 30002
 embedding_dimension: 3
@@ -32,3 +32,6 @@ The exact-count controls must match; each analytical H oracle within absolute 1e
 Python3 standard library only; preserve source file, SHA256, exact run command, Python version, synthetic first 12 values, ordinal counts, entropy/normalized entropy, each test verdict, and output JSON with SHA. A result in an assistant sandbox must be explicitly named **assistant sandbox, NOT Veron or LSE**. Frozen spec committed before any execution.
 
 [[06 - Experiments and Backtests/EVIDENCE LEDGER|Evidence Ledger]] · [[09 - Research Infrastructure/RESEARCH DIRECTOR|Research Director]]
+
+## Post-preregistration result append — 2026-10-13
+All six expected numerical checks subsequently passed without modifying the above preregistration. The original frozen spec remains independently traceable at commit e20e7b65adaca1f0c73781bcebec3750023a3439. See [[06 - Experiments and Backtests/EXP-S001 - Execution Evidence|EXP-S001 Execution Evidence]] for actual tool output, hashes, independent scope and source caveat. PASS does not imply financial-market behavior or trading value.

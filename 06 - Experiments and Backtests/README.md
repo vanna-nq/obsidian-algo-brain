@@ -8,3 +8,6 @@ Keep executed experiments with unique IDs. Include exact dataset/checksum, train
 ## Research evidence and synthetic experiments
 - [[06 - Experiments and Backtests/EVIDENCE LEDGER|Evidence Ledger]]
 - [[06 - Experiments and Backtests/EXP-S001 - Permutation Entropy Synthetic Invariants|EXP-S001]] — synthetic numerical correctness, not an empirical forecast.
+
+## First executed synthetic proof of mechanism
+- [[06 - Experiments and Backtests/EXP-S001 - Execution Evidence|EXP-S001 executed evidence]] — 6/6 predefined permutation-entropy invariants passed **in assistant sandbox**, not in Veron or LSE. Code and machine-readable raw output are linked.

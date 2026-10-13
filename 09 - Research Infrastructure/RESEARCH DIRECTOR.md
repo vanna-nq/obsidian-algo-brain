@@ -13,7 +13,7 @@ hypotheses: 15
 
 | Task | Track | State | Next allowable action |
 |---|---|---|---|
-| [[06 - Experiments and Backtests/EXP-S001 - Permutation Entropy Synthetic Invariants|EXP-S001]] | synthetic mathematics | FROZEN, pending execution | Run its five preregistered unit tests, capture raw output and hashes; stop |
+| [[06 - Experiments and Backtests/EXP-S001 - Permutation Entropy Synthetic Invariants|EXP-S001]] | synthetic mathematics | PASS — six preregistered assertions in assistant sandbox | Executed synthetic invariant checks; results in Evidence Ledger. NEXT: separate one-task Veron or LSE verification only after verifying callable functions/data. |
 | [[06 - Experiments and Backtests/EXP-F001 - Permutation Entropy Data and Method Audit|EXP-F001]] | GC.F empirical | BLOCKED, no raw bar preview | Obtain a verified LSE/Veron 5m data preview, roll calendar and source fingerprint |
 | [[05 - Strategy Hypotheses/HYP-F002 - Roughness of Volatility|HYP-F002]] | mathematical | PROPOSED | Wait until the current test is recorded |
 | [[05 - Strategy Hypotheses/HYP-F003 - Intraday Extremum Hazard and Seasonality|HYP-F003]] | empirical | PROPOSED | Wait; first verify sessions, bar labeling and causal extremes |
@@ -43,3 +43,6 @@ A blocked *empirical* task does not block an independent synthetic mathematics u
 
 ## Navigation
 [[05 - Strategy Hypotheses/RESEARCH INTELLIGENCE INDEX|Research Intelligence Index]] · [[06 - Experiments and Backtests/EVIDENCE LEDGER|Evidence Ledger]] · [[09 - Research Infrastructure/RESEARCH EXECUTION CONTRACT|Execution Contract]]
+
+## Post-execution decision — EXP-S001
+**PASS for synthetic mathematical unit tests only.** All 6 assertions passed under preregistered thresholds in an OpenAI isolated Python3 environment; [[06 - Experiments and Backtests/EXP-S001 - Execution Evidence|reproduction evidence]] and source/results artifacts are preserved. No Veron, LSE or real-price market experiments were run. The gold data gate in EXP-F001 remains BLOCKED. Next highest-value request is a **separate verified Veron execution/capability check** or a real LSE dataset preview; do not infer market predictive ability from the synthetic PASS.
