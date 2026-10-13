@@ -24,3 +24,7 @@ _Unresolved claims requiring independent checks._
 - [[01 - Paper Library/PAPER-001 - Beat the Market - SPY Intraday Momentum|PAPER-001 — Beat the Market: SPY Intraday Momentum]] — literature-reviewed; author-reported historical performance; not replicated.
 
 - [[01 - Paper Library/PAPER-012 - Market Intraday Momentum - Gao Han Li Zhou 2018|PAPER-012 — Market Intraday Momentum - Gao Han Li Zhou 2018]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-034 - Intraday Patterns in the Cross-section of Stock Returns|PAPER-034 — Intraday Patterns in the Cross-section of Stock Returns]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-035 - Hedging Demand and Market Intraday Momentum|PAPER-035 — Hedging Demand and Market Intraday Momentum]] — literature screening, not independently replicated.
