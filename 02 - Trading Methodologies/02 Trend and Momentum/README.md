@@ -32,5 +32,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-40 - Returns to Buying Winners and Selling Losers Implications for Stock Market Efficiency|PAPER-40 — Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-41 - Volatility-Managed Portfolios|PAPER-41 — Volatility-Managed Portfolios]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-040 - Returns to Buying Winners and Selling Losers Implications for Stock Market Efficiency|PAPER-040 — Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-041 - Volatility-Managed Portfolios|PAPER-041 — Volatility-Managed Portfolios]] — primary source verified; independent replication pending.

@@ -30,5 +30,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-60 - Common risk factors in the returns on stocks and bonds|PAPER-60 — Common risk factors in the returns on stocks and bonds]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-61 - Carry Trades and Currency Crashes|PAPER-61 — Carry Trades and Currency Crashes]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-060 - Common risk factors in the returns on stocks and bonds|PAPER-060 — Common risk factors in the returns on stocks and bonds]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-061 - Carry Trades and Currency Crashes|PAPER-061 — Carry Trades and Currency Crashes]] — primary source verified; independent replication pending.

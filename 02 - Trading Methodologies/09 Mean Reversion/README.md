@@ -30,5 +30,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-54 - Does the Stock Market Overreact|PAPER-54 — Does the Stock Market Overreact?]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-55 - Evaporating Liquidity|PAPER-55 — Evaporating Liquidity]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-054 - Does the Stock Market Overreact|PAPER-054 — Does the Stock Market Overreact?]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-055 - Evaporating Liquidity|PAPER-055 — Evaporating Liquidity]] — primary source verified; independent replication pending.

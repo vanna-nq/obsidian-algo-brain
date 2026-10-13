@@ -30,5 +30,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-38 - Does Simple Pairs Trading Still Work|PAPER-38 — Does Simple Pairs Trading Still Work?]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-39 - The profitability of pairs trading strategies distance cointegration and copula method|PAPER-39 — The profitability of pairs trading strategies: distance, cointegration and copula methods]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-038 - Does Simple Pairs Trading Still Work|PAPER-038 — Does Simple Pairs Trading Still Work?]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-039 - The profitability of pairs trading strategies distance cointegration and copula method|PAPER-039 — The profitability of pairs trading strategies: distance, cointegration and copula methods]] — primary source verified; independent replication pending.

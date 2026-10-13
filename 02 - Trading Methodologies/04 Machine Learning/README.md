@@ -30,5 +30,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-44 - A Reality Check for Data Snooping|PAPER-44 — A Reality Check for Data Snooping]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-45 - The Probability of Backtest Overfitting|PAPER-45 — The Probability of Backtest Overfitting]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-044 - A Reality Check for Data Snooping|PAPER-044 — A Reality Check for Data Snooping]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-045 - The Probability of Backtest Overfitting|PAPER-045 — The Probability of Backtest Overfitting]] — primary source verified; independent replication pending.

@@ -32,5 +32,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-50 - Cross-section of option returns and volatility|PAPER-50 — Cross-section of option returns and volatility]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-51 - Dynamic estimation of volatility risk premia and investor risk aversion from option-im|PAPER-51 — Dynamic estimation of volatility risk premia and investor risk aversion from option-implied and realized volatilities]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-050 - Cross-section of option returns and volatility|PAPER-050 — Cross-section of option returns and volatility]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-051 - Dynamic estimation of volatility risk premia and investor risk aversion from option-im|PAPER-051 — Dynamic estimation of volatility risk premia and investor risk aversion from option-implied and realized volatilities]] — primary source verified; independent replication pending.

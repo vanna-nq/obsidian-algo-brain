@@ -32,5 +32,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-58 - A Theory of Intraday Patterns Volume and Price Variability|PAPER-58 — A Theory of Intraday Patterns: Volume and Price Variability]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-59 - Intraday periodicity and volatility persistence in financial markets|PAPER-59 — Intraday periodicity and volatility persistence in financial markets]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-058 - A Theory of Intraday Patterns Volume and Price Variability|PAPER-058 — A Theory of Intraday Patterns: Volume and Price Variability]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-059 - Intraday periodicity and volatility persistence in financial markets|PAPER-059 — Intraday periodicity and volatility persistence in financial markets]] — primary source verified; independent replication pending.

@@ -30,5 +30,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-48 - The Information Bottleneck Method|PAPER-48 — The Information Bottleneck Method]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-49 - Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables|PAPER-49 — Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-048 - The Information Bottleneck Method|PAPER-048 — The Information Bottleneck Method]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-049 - Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables|PAPER-049 — Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables]] — primary source verified; independent replication pending.

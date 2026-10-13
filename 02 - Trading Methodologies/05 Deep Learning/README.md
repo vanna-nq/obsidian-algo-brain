@@ -30,5 +30,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-46 - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting|PAPER-46 — Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-47 - Deep Hedging|PAPER-47 — Deep Hedging]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-046 - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting|PAPER-046 — Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-047 - Deep Hedging|PAPER-047 — Deep Hedging]] — primary source verified; independent replication pending.

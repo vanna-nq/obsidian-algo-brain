@@ -32,5 +32,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-42 - Measuring the Information Content of Stock Trades|PAPER-42 — Measuring the Information Content of Stock Trades]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-43 - Optimal Execution of Portfolio Transactions|PAPER-43 — Optimal Execution of Portfolio Transactions]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-042 - Measuring the Information Content of Stock Trades|PAPER-042 — Measuring the Information Content of Stock Trades]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-043 - Optimal Execution of Portfolio Transactions|PAPER-043 — Optimal Execution of Portfolio Transactions]] — primary source verified; independent replication pending.

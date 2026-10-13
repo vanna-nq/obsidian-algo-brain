@@ -32,5 +32,5 @@ _Unresolved claims requiring independent checks._
 ## Verified-source literature: PAPER-038–061
 
 New scholarly references verified against publisher/author abstracts; not yet full-paper-audited or independently tested.
-- [[01 - Paper Library/PAPER-52 - Dynamic linear models with Markov-switching|PAPER-52 — Dynamic linear models with Markov-switching]] — primary source verified; independent replication pending.
-- [[01 - Paper Library/PAPER-53 - Asset allocation under multivariate regime switching|PAPER-53 — Asset allocation under multivariate regime switching]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-052 - Dynamic linear models with Markov-switching|PAPER-052 — Dynamic linear models with Markov-switching]] — primary source verified; independent replication pending.
+- [[01 - Paper Library/PAPER-053 - Asset allocation under multivariate regime switching|PAPER-053 — Asset allocation under multivariate regime switching]] — primary source verified; independent replication pending.
