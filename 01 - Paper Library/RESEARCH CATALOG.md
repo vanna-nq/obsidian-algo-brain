@@ -1,6 +1,6 @@
 # Research Catalog — Algo Brain
 
-**Inventory date:** 2026-10-13. **13 canonical paper notes:** 1 uploaded PDF reviewed + 12 literature-screening notes. **0 independently replicated by us.**
+**Inventory date:** 2026-10-13. **37 canonical paper notes:** 1 uploaded PDF reviewed + 36 literature-screening notes. **0 independently replicated by us.**
 
 | ID | Research paper | Primary home | Review status |
 |---|---|---|---|
@@ -27,3 +27,37 @@
 
 ## Evidence standard
 Source links and research notes are educational leads, NOT executable specifications. Before coding, examine the full text, freeze data and entry/exit logic, document realistic costs and strictly causal walk-forward splits, and preserve negative results. Do not promote notes to Validated Models absent independently executed evidence.
+
+## 2026 expansion — PAPER-014 to PAPER-037
+
+Added 2026-10-13. Each entry contains metadata and an abstract-level or accessible source-summary review, stated mechanism, limits, data requirements and one proposed falsifiable test. **No new full-text equation audits or executed backtests are claimed.**
+
+| ID | Paper | Primary methodology | Status |
+|---|---|---|---|
+| PAPER-014 | [[01 - Paper Library/PAPER-014 - Co-Integration and Error Correction|Co-Integration and Error Correction]] | Statistical Arbitrage | metadata and abstract screened, not replicated |
+| PAPER-015 | [[01 - Paper Library/PAPER-015 - Pairs Trading|Pairs Trading]] | Statistical Arbitrage | metadata and abstract screened, not replicated |
+| PAPER-016 | [[01 - Paper Library/PAPER-016 - A Century of Evidence on Trend-Following Investing|A Century of Evidence on Trend-Following Investing]] | Trend and Momentum | metadata and abstract screened, not replicated |
+| PAPER-017 | [[01 - Paper Library/PAPER-017 - Momentum Crashes|Momentum Crashes]] | Trend and Momentum | metadata and abstract screened, not replicated |
+| PAPER-018 | [[01 - Paper Library/PAPER-018 - Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Trade|Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders]] | Market Microstructure | metadata and abstract screened, not replicated |
+| PAPER-019 | [[01 - Paper Library/PAPER-019 - The Price Impact of Order Book Events|The Price Impact of Order Book Events]] | Market Microstructure | metadata and abstract screened, not replicated |
+| PAPER-020 | [[01 - Paper Library/PAPER-020 - Deep Neural Networks Gradient-Boosted Trees Random Forests Statistical Arbitrage on the S&|Deep Neural Networks Gradient-Boosted Trees Random Forests: Statistical Arbitrage on the S&P 500]] | Machine Learning | metadata and abstract screened, not replicated |
+| PAPER-021 | [[01 - Paper Library/PAPER-021 - Out-of-Sample Equity Premium Prediction Combination Forecasts and Links to the Real Econom|Out-of-Sample Equity Premium Prediction: Combination Forecasts and Links to the Real Economy]] | Machine Learning | metadata and abstract screened, not replicated |
+| PAPER-022 | [[01 - Paper Library/PAPER-022 - Universal Features of Price Formation in Financial Markets Perspectives from Deep Learning|Universal Features of Price Formation in Financial Markets: Perspectives from Deep Learning]] | Deep Learning | metadata and abstract screened, not replicated |
+| PAPER-023 | [[01 - Paper Library/PAPER-023 - Enhancing Time Series Momentum Strategies Using Deep Neural Networks|Enhancing Time Series Momentum Strategies Using Deep Neural Networks]] | Deep Learning | metadata and abstract screened, not replicated |
+| PAPER-024 | [[01 - Paper Library/PAPER-024 - A Mathematical Theory of Communication|A Mathematical Theory of Communication]] | Information Theory | metadata and abstract screened, not replicated |
+| PAPER-025 | [[01 - Paper Library/PAPER-025 - Measuring Information Transfer|Measuring Information Transfer]] | Information Theory | metadata and abstract screened, not replicated |
+| PAPER-026 | [[01 - Paper Library/PAPER-026 - Expected Stock Returns and Variance Risk Premia|Expected Stock Returns and Variance Risk Premia]] | Volatility and Derivatives | metadata and abstract screened, not replicated |
+| PAPER-027 | [[01 - Paper Library/PAPER-027 - The VIX the Variance Premium and Stock Market Volatility|The VIX the Variance Premium and Stock Market Volatility]] | Volatility and Derivatives | metadata and abstract screened, not replicated |
+| PAPER-028 | [[01 - Paper Library/PAPER-028 - Identifying Bull and Bear Markets in Stock Returns|Identifying Bull and Bear Markets in Stock Returns]] | Regime Detection | metadata and abstract screened, not replicated |
+| PAPER-029 | [[01 - Paper Library/PAPER-029 - International Asset Allocation With Regime Shifts|International Asset Allocation With Regime Shifts]] | Regime Detection | metadata and abstract screened, not replicated |
+| PAPER-030 | [[01 - Paper Library/PAPER-030 - Mean Reversion in Stock Prices Evidence and Implications|Mean Reversion in Stock Prices Evidence and Implications]] | Mean Reversion | metadata and abstract screened, not replicated |
+| PAPER-031 | [[01 - Paper Library/PAPER-031 - When Are Contrarian Profits Due to Stock Market Overreaction|When Are Contrarian Profits Due to Stock Market Overreaction]] | Mean Reversion | metadata and abstract screened, not replicated |
+| PAPER-032 | [[01 - Paper Library/PAPER-032 - Portfolio Selection|Portfolio Selection]] | Optimization and Physics | metadata and abstract screened, not replicated |
+| PAPER-033 | [[01 - Paper Library/PAPER-033 - Ising Formulations of Many NP Problems|Ising Formulations of Many NP Problems]] | Optimization and Physics | metadata and abstract screened, not replicated |
+| PAPER-034 | [[01 - Paper Library/PAPER-034 - Intraday Patterns in the Cross-section of Stock Returns|Intraday Patterns in the Cross-section of Stock Returns]] | Intraday Price Structure | metadata and abstract screened, not replicated |
+| PAPER-035 | [[01 - Paper Library/PAPER-035 - Hedging Demand and Market Intraday Momentum|Hedging Demand and Market Intraday Momentum]] | Intraday Price Structure | metadata and abstract screened, not replicated |
+| PAPER-036 | [[01 - Paper Library/PAPER-036 - Carry|Carry]] | Cross Asset and Macro | metadata and abstract screened, not replicated |
+| PAPER-037 | [[01 - Paper Library/PAPER-037 - International Stock Return Predictability What Is the Role of the United States|International Stock Return Predictability What Is the Role of the United States]] | Cross Asset and Macro | metadata and abstract screened, not replicated |
+
+### Replication gate
+Every paper must pass full-text rule audit, provenance checks and causal holdout tests before a trading strategy can be called validated. 2026 source discovery does not imply current profitability.
