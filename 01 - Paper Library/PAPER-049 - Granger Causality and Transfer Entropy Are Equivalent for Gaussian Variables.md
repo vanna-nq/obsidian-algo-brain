@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-49
+paper_id: PAPER-049
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "06 Information Theory"
@@ -9,7 +9,7 @@ doi: "10.1103/PhysRevLett.103.238701"
 source_url: "https://doi.org/10.1103/PhysRevLett.103.238701"
 replicated: false
 ---
-# PAPER-49 — Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables
+# PAPER-049 — Granger Causality and Transfer Entropy Are Equivalent for Gaussian Variables
 
 **Authors:** Lionel Barnett; Adam B. Barrett; Anil K. Seth  
 **Venue/year:** Physical Review Letters 103, 238701 (2009)  

@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-45
+paper_id: PAPER-045
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "04 Machine Learning"
@@ -9,7 +9,7 @@ doi: "10.21314/JCF.2016.322"
 source_url: "https://www.risk.net/journal-of-computational-finance/2471206/the-probability-of-backtest-overfitting"
 replicated: false
 ---
-# PAPER-45 — The Probability of Backtest Overfitting
+# PAPER-045 — The Probability of Backtest Overfitting
 
 **Authors:** David H. Bailey; Jonathan M. Borwein; Marcos López de Prado; Qiji Jim Zhu  
 **Venue/year:** Journal of Computational Finance (2017)  

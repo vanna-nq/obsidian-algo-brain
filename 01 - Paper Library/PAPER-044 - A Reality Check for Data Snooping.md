@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-44
+paper_id: PAPER-044
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "04 Machine Learning"
@@ -9,7 +9,7 @@ doi: "10.1111/1468-0262.00152"
 source_url: "https://doi.org/10.1111/1468-0262.00152"
 replicated: false
 ---
-# PAPER-44 — A Reality Check for Data Snooping
+# PAPER-044 — A Reality Check for Data Snooping
 
 **Authors:** Halbert White  
 **Venue/year:** Econometrica 68(5), 1097–1126 (2000)  

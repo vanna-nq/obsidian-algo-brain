@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-39
+paper_id: PAPER-039
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "01 Statistical Arbitrage"
@@ -9,7 +9,7 @@ doi: "10.1080/14697688.2016.1164337"
 source_url: "https://doi.org/10.1080/14697688.2016.1164337"
 replicated: false
 ---
-# PAPER-39 — The profitability of pairs trading strategies: distance, cointegration and copula methods
+# PAPER-039 — The profitability of pairs trading strategies: distance, cointegration and copula methods
 
 **Authors:** Hossein Rad; Rand Kwong Yew Low; Robert Faff  
 **Venue/year:** Quantitative Finance 16(10), 1541–1558 (2016)  

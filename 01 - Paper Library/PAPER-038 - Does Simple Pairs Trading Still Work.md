@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-38
+paper_id: PAPER-038
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "01 Statistical Arbitrage"
@@ -9,7 +9,7 @@ doi: "10.2469/faj.v66.n4.1"
 source_url: "https://rpc.cfainstitute.org/research/financial-analysts-journal/2010/does-simple-pairs-trading-still-work"
 replicated: false
 ---
-# PAPER-38 — Does Simple Pairs Trading Still Work?
+# PAPER-038 — Does Simple Pairs Trading Still Work?
 
 **Authors:** Binh Do; Robert Faff  
 **Venue/year:** Financial Analysts Journal 66(4) (2010)  

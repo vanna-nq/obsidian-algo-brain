@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-42
+paper_id: PAPER-042
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "03 Market Microstructure"
@@ -9,7 +9,7 @@ doi: "10.1111/j.1540-6261.1991.tb03749.x"
 source_url: "https://doi.org/10.1111/j.1540-6261.1991.tb03749.x"
 replicated: false
 ---
-# PAPER-42 — Measuring the Information Content of Stock Trades
+# PAPER-042 — Measuring the Information Content of Stock Trades
 
 **Authors:** Joel Hasbrouck  
 **Venue/year:** The Journal of Finance 46(1), 179–207 (1991)  

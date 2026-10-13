@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-40
+paper_id: PAPER-040
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "02 Trend and Momentum"
@@ -9,7 +9,7 @@ doi: "10.1111/j.1540-6261.1993.tb04702.x"
 source_url: "https://doi.org/10.1111/j.1540-6261.1993.tb04702.x"
 replicated: false
 ---
-# PAPER-40 — Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency
+# PAPER-040 — Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency
 
 **Authors:** Narasimhan Jegadeesh; Sheridan Titman  
 **Venue/year:** The Journal of Finance 48(1), 65–91 (1993)  

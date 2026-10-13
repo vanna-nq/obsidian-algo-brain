@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-47
+paper_id: PAPER-047
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "05 Deep Learning"
@@ -9,7 +9,7 @@ doi: "10.1080/14697688.2019.1571683"
 source_url: "https://doi.org/10.1080/14697688.2019.1571683"
 replicated: false
 ---
-# PAPER-47 — Deep Hedging
+# PAPER-047 — Deep Hedging
 
 **Authors:** Hans Buehler; Lukas Gonon; Josef Teichmann; Ben Wood  
 **Venue/year:** Quantitative Finance 19(8), 1271–1291 (2019)  

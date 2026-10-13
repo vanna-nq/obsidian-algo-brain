@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-48
+paper_id: PAPER-048
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "06 Information Theory"
@@ -9,7 +9,7 @@ doi: "10.48550/arXiv.physics/0004057"
 source_url: "https://arxiv.org/abs/physics/0004057"
 replicated: false
 ---
-# PAPER-48 — The Information Bottleneck Method
+# PAPER-048 — The Information Bottleneck Method
 
 **Authors:** Naftali Tishby; Fernando C. Pereira; William Bialek  
 **Venue/year:** Foundational information-theory preprint (arXiv:physics/0004057; earlier conference work) (2000)  

@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-46
+paper_id: PAPER-046
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "05 Deep Learning"
@@ -9,7 +9,7 @@ doi: "10.1016/j.ijforecast.2021.03.012"
 source_url: "https://doi.org/10.1016/j.ijforecast.2021.03.012"
 replicated: false
 ---
-# PAPER-46 — Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting
+# PAPER-046 — Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting
 
 **Authors:** Bryan Lim; Sercan Ö. Arık; Nicolas Loeff; Tomas Pfister  
 **Venue/year:** International Journal of Forecasting 37(4), 1748–1764 (2021)  

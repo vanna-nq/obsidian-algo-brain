@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-43
+paper_id: PAPER-043
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "03 Market Microstructure"
@@ -9,7 +9,7 @@ doi: "10.21314/JOR.2001.041"
 source_url: "https://doi.org/10.21314/JOR.2001.041"
 replicated: false
 ---
-# PAPER-43 — Optimal Execution of Portfolio Transactions
+# PAPER-043 — Optimal Execution of Portfolio Transactions
 
 **Authors:** Robert Almgren; Neil Chriss  
 **Venue/year:** Journal of Risk 3(2) (2001)  

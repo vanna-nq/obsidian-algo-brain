@@ -1,6 +1,6 @@
 ---
 type: paper
-paper_id: PAPER-41
+paper_id: PAPER-041
 status: publisher-abstract-verified-not-fulltext-audited
 reviewed_on: 2026-10-13
 primary_methodology: "02 Trend and Momentum"
@@ -9,7 +9,7 @@ doi: "10.1111/jofi.12513"
 source_url: "https://doi.org/10.1111/jofi.12513"
 replicated: false
 ---
-# PAPER-41 — Volatility-Managed Portfolios
+# PAPER-041 — Volatility-Managed Portfolios
 
 **Authors:** Alan Moreira; Tyler Muir  
 **Venue/year:** The Journal of Finance 72(4), 1611–1644 (2017)  
