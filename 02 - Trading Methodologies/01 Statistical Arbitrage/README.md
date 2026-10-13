@@ -22,3 +22,7 @@ _Unresolved claims requiring independent checks._
 
 ## Papers
 - [[01 - Paper Library/PAPER-002 - Pairs Trading - Gatev Goetzmann Rouwenhorst 2006|PAPER-002 — Pairs Trading - Gatev Goetzmann Rouwenhorst 2006]] — abstract screened; independent reproduction pending.
+
+## 2026 research additions
+- [[01 - Paper Library/PAPER-014 - Co-Integration and Error Correction|PAPER-014 — Co-Integration and Error Correction]] — literature screening, not independently replicated.
+- [[01 - Paper Library/PAPER-015 - Pairs Trading|PAPER-015 — Pairs Trading]] — literature screening, not independently replicated.
